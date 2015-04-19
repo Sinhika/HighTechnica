@@ -1,0 +1,7 @@
+ID,Provider ID,Provider Class Name
+-112,-112,com.rwtema.extrautils.worldgen.endoftime.WorldProviderEndOfTime
+-100,-100,com.rwtema.extrautils.worldgen.Underdark.WorldProviderUnderdark
+-17,-17,drzhark.mocreatures.dimension.WorldProviderWyvernEnd
+-1,-1,mods.natura.dimension.NetheriteWorldProvider
+0,0,net.minecraft.world.WorldProviderSurface
+1,1,net.minecraft.world.WorldProviderEnd

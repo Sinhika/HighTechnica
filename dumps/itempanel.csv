@@ -1,0 +1,36 @@
+Item Name,Item ID,Item meta,Has NBT,Display Name
+minecraft:clock,347,0,false,Clock
+BiblioCraft:BiblioClock,191,0,false,Oak Clock
+BiblioCraft:BiblioClock,191,1,false,Spruce Clock
+BiblioCraft:BiblioClock,191,2,false,Birch Clock
+BiblioCraft:BiblioClock,191,3,false,Jungle Clock
+BiblioCraft:BiblioClock,191,4,false,Acacia Clock
+BiblioCraft:BiblioClock,191,5,false,Dark Oak Clock
+BiblioCraft:BiblioClock,191,6,false,Framed Clock
+BiblioWoodsEBXL:BiblioWoodClock,458,0,false,Acacia Clock
+BiblioWoodsEBXL:BiblioWoodClock,458,1,false,Autumn Clock
+BiblioWoodsEBXL:BiblioWoodClock,458,2,false,Bald Cypress Clock
+BiblioWoodsEBXL:BiblioWoodClock,458,3,false,Cypress Clock
+BiblioWoodsEBXL:BiblioWoodClock,458,4,false,Fir Clock
+BiblioWoodsEBXL:BiblioWoodClock,458,5,false,Japanese Maple Clock
+BiblioWoodsEBXL:BiblioWoodClock,458,6,false,Rainbow Eucalyptus Clock
+BiblioWoodsEBXL:BiblioWoodClock,458,7,false,Redwood Clock
+BiblioWoodsEBXL:BiblioWoodClock,458,8,false,Sakura Clock
+BiblioWoodsHighlands:BiblioWoodClock,532,0,false,Grey Wood Clock
+BiblioWoodsHighlands:BiblioWoodClock,532,1,false,Red Wood Clock
+BiblioWoodsHighlands:BiblioWoodClock,532,2,false,White Wood Clock
+BiblioWoodsHighlands:BiblioWoodClock,532,3,false,Yellow Wood Clock
+BiblioWoodsNatura:BiblioWoodClock,666,0,false,Bloodwood Clock
+BiblioWoodsNatura:BiblioWoodClock,666,1,false,Darkwood Clock
+BiblioWoodsNatura:BiblioWoodClock,666,2,false,Eucalyptus Clock
+BiblioWoodsNatura:BiblioWoodClock,666,3,false,Fusewood Clock
+BiblioWoodsNatura:BiblioWoodClock,666,4,false,Ghostwood Clock
+BiblioWoodsNatura:BiblioWoodClock,666,5,false,Hopseed Clock
+BiblioWoodsNatura:BiblioWoodClock,666,6,false,Maple Clock
+BiblioWoodsNatura:BiblioWoodClock,666,7,false,Purpleheart Clock
+BiblioWoodsNatura:BiblioWoodClock,666,8,false,Redwood Clock
+BiblioWoodsNatura:BiblioWoodClock,666,9,false,Silverbell Clock
+BiblioWoodsNatura:BiblioWoodClock,666,10,false,Sakura Clock
+BiblioWoodsNatura:BiblioWoodClock,666,11,false,Tiger Clock
+BiblioWoodsNatura:BiblioWoodClock,666,12,false,Willow Clock
+ExtraUtilities:timer,1119,0,false,Redstone Clock

@@ -1,0 +1,5 @@
+Slot,Display Name,Amount,Damage,Max Damage,Item ID,Unlocalized Name,Item Class,NBT
+0,World Domination with OpenBlocks,1,0,0,OpenBlocks:infoBook,item.openblocks.info_book,openblocks.common.item.ItemInfoBook,
+1,Materials and You: Volume 1,1,0,0,TConstruct:manualBook,item.tconstruct.manual.beginner,tconstruct.tools.items.Manual,
+2,RotaryCraft Handbook,1,0,0,RotaryCraft:rotarycraft_item_handbook,item.item.handbook,Reika.RotaryCraft.Items.ItemHandBook,
+3,ReactorCraft Handbook,1,0,0,ReactorCraft:reactorcraft_item_book,item.item.reactorbook,Reika.ReactorCraft.Items.ItemReactorBook,

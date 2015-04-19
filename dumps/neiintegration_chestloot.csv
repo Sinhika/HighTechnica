@@ -1,0 +1,681 @@
+Chest Type,ItemStack,Item Display Name,Item ID,Weight
+bonusChest,1xitem.stick@0,Stick,minecraft:stick,10
+bonusChest,1xtile.wood@0,Oak Wood Planks,minecraft:planks,10
+bonusChest,1xtile.log@0,Oak Wood,minecraft:log,10
+bonusChest,1xitem.apple@0,Apple,minecraft:apple,5
+bonusChest,1xitem.bread@0,Bread,minecraft:bread,3
+bonusChest,1xtile.log@0,Acacia Wood,minecraft:log2,10
+bonusChest,1xitem.item.shaftcraft@1,HSLA Steel Ingot,RotaryCraft:rotarycraft_item_shaftcraft,6
+bonusChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,10
+bonusChest,1xitem.InfiTool.Pickaxe@0,§fStarter Pickaxe,TConstruct:pickaxe,5
+bonusChest,1xitem.InfiTool.Axe@0,§fStarter Hatchet,TConstruct:hatchet,5
+dungeonChest,1xitem.saddle@0,Saddle,minecraft:saddle,10
+dungeonChest,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+dungeonChest,1xitem.bread@0,Bread,minecraft:bread,10
+dungeonChest,1xitem.wheat@0,Wheat,minecraft:wheat,10
+dungeonChest,1xitem.sulphur@0,Gunpowder,minecraft:gunpowder,10
+dungeonChest,1xitem.string@0,String,minecraft:string,10
+dungeonChest,1xitem.bucket@0,Bucket,minecraft:bucket,10
+dungeonChest,1xitem.appleGold@0,Golden Apple,minecraft:golden_apple,1
+dungeonChest,1xitem.redstone@0,Redstone,minecraft:redstone,10
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_13,10
+dungeonChest,1xitem.record@0,Music Disc,minecraft:record_cat,10
+dungeonChest,1xitem.nameTag@0,Name Tag,minecraft:name_tag,10
+dungeonChest,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,2
+dungeonChest,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,5
+dungeonChest,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+dungeonChest,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+dungeonChest,1xitem.openblocks.glasses.technicolor@0,Amazing Technicolor Glasses,OpenBlocks:technicolorGlasses,2
+dungeonChest,1xitem.ashSeeds@0,Ashenwheat Seeds,ashenwheat:ashSeeds,15
+dungeonChest,1xitem.scintillaSeeds@0,Scintillawheat Seeds,ashenwheat:scintillaSeeds,5
+dungeonChest,1xitem.ossidSeeds@0,Ossidroot Seeds,ashenwheat:ossidSeeds,10
+dungeonChest,1xitem.thunderSeeds@0,Thundergrass Seeds,ashenwheat:thunderSeeds,10
+dungeonChest,1xitem.tconstruct.canister@1,Miniature Red Heart,TConstruct:heartCanister,5
+dungeonChest,1xitem.item.shaftcraft@9,HSLA Steel Scrap,RotaryCraft:rotarycraft_item_shaftcraft,20
+dungeonChest,1xitem.item.shaftcraft@10,Iron Scrap,RotaryCraft:rotarycraft_item_shaftcraft,40
+dungeonChest,1xitem.item.canola@0,Canola Seeds,RotaryCraft:rotarycraft_item_canola,40
+dungeonChest,1xitem.gardencontainers.potteryPatternDirty@0,Clay Pattern Stamp,GardenContainers:pottery_pattern_dirty,1
+dungeonChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+dungeonChest,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,3
+dungeonChest,1xtile.extrautils:plant/ender_lilly@0,Ender-Lily Seeds,ExtraUtilities:plant/ender_lilly,9
+dungeonChest,1xitem.loadedbakedpotatoItem@0,Loaded Baked Potato,harvestcraft:loadedbakedpotatoItem,5
+dungeonChest,1xitem.chickenpotpieItem@0,Chicken Pot Pie,harvestcraft:chickenpotpieItem,5
+dungeonChest,1xitem.baconcheeseburgerItem@0,Bacon Cheeseburger,harvestcraft:baconcheeseburgerItem,5
+dungeonChest,1xitem.potroastItem@0,Pot Roast,harvestcraft:potroastItem,5
+dungeonChest,1xitem.spagettiandmeatballsItem@0,Spagetti and Meatballs,harvestcraft:spagettiandmeatballsItem,5
+dungeonChest,1xitem.pizzaItem@0,Pizza,harvestcraft:pizzaItem,5
+dungeonChest,1xitem.bltItem@0,BLT,harvestcraft:bltItem,5
+dungeonChest,1xitem.leafychickensandwichItem@0,Leafy Chicken Sandwich,harvestcraft:leafychickensandwichItem,5
+dungeonChest,1xitem.deluxecheeseburgerItem@0,Deluxe Cheeseburger,harvestcraft:deluxecheeseburgerItem,5
+dungeonChest,1xitem.delightedmealItem@0,Delighted Meal,harvestcraft:delightedmealItem,5
+dungeonChest,1xitem.onionsoupItem@0,Onion Soup,harvestcraft:onionsoupItem,5
+dungeonChest,1xitem.hashItem@0,Hash,harvestcraft:hashItem,5
+dungeonChest,1xitem.heartybreakfastItem@0,Hearty Breakfast,harvestcraft:heartybreakfastItem,5
+dungeonChest,1xitem.tacoItem@0,Taco,harvestcraft:tacoItem,5
+dungeonChest,1xitem.trailmixItem@0,Trail Mix,harvestcraft:trailmixItem,5
+dungeonChest,1xitem.pbandjItem@0,PB&J,harvestcraft:pbandjItem,5
+dungeonChest,1xitem.cucumbersaladItem@0,Cucumber Salad,harvestcraft:cucumbersaladItem,5
+dungeonChest,1xitem.friedriceItem@0,Fried Rice,harvestcraft:friedriceItem,5
+dungeonChest,1xitem.mushroomrisottoItem@0,Mushroom Risotto,harvestcraft:mushroomrisottoItem,5
+dungeonChest,1xitem.curryItem@0,Curry Rice,harvestcraft:curryItem,5
+dungeonChest,1xitem.rainbowcurryItem@0,Rainbow Curry,harvestcraft:rainbowcurryItem,5
+dungeonChest,1xitem.bakedbeansItem@0,Baked Beans,harvestcraft:bakedbeansItem,5
+dungeonChest,1xitem.beansandriceItem@0,Beans and Rice,harvestcraft:beansandriceItem,5
+dungeonChest,1xitem.chiliItem@0,Chili,harvestcraft:chiliItem,5
+dungeonChest,1xitem.veggiestirfryItem@0,Veggie Stirfry,harvestcraft:veggiestirfryItem,5
+dungeonChest,1xitem.supremepizzaItem@0,Supreme Pizza,harvestcraft:supremepizzaItem,5
+dungeonChest,1xitem.extremechiliItem@0,Extreme Chili,harvestcraft:extremechiliItem,5
+dungeonChest,1xitem.lemonmeringueItem@0,Lemon Meringue,harvestcraft:lemonmeringueItem,5
+dungeonChest,1xitem.cheesecakeItem@0,Cheesecake,harvestcraft:cheesecakeItem,5
+dungeonChest,1xitem.cherrycheesecakeItem@0,Cherry Cheesecake,harvestcraft:cherrycheesecakeItem,5
+dungeonChest,1xitem.stuffedeggplantItem@0,Stuffed Eggplant,harvestcraft:stuffedeggplantItem,5
+dungeonChest,1xitem.eggplantparmItem@0,Eggplant Parm,harvestcraft:eggplantparmItem,5
+dungeonChest,1xitem.coffeeconlecheItem@0,Coffee con Leche,harvestcraft:coffeeconlecheItem,5
+dungeonChest,1xitem.mochaicecreamItem@0,Mocha Ice Cream,harvestcraft:mochaicecreamItem,5
+dungeonChest,1xitem.beetsaladItem@0,Beet Salad,harvestcraft:beetsaladItem,5
+dungeonChest,1xitem.bakedbeetsItem@0,Baked Beets,harvestcraft:bakedbeetsItem,5
+dungeonChest,1xitem.creamedbroccolisoupItem@0,Creamed Broccoli Soup,harvestcraft:creamedbroccolisoupItem,5
+dungeonChest,1xitem.sweetpotatopieItem@0,Sweet Potato Pie,harvestcraft:sweetpotatopieItem,5
+dungeonChest,1xitem.splitpeasoupItem@0,Split Pea Soup,harvestcraft:splitpeasoupItem,5
+dungeonChest,1xitem.pineappleupsidedowncakeItem@0,Pineapple Upsidedown Cake,harvestcraft:pineappleupsidedowncakeItem,5
+dungeonChest,1xitem.pineapplehamItem@0,Pineapple Ham,harvestcraft:pineapplehamItem,5
+dungeonChest,1xitem.roastedrootveggiemedleyItem@0,Roasted Root Veggie Medley,harvestcraft:roastedrootveggiemedleyItem,5
+dungeonChest,1xitem.gingerbreadItem@0,Ginger Bread,harvestcraft:gingerbreadItem,5
+dungeonChest,1xitem.softpretzelandmustardItem@0,Soft Pretzel and Mustard,harvestcraft:softpretzelandmustardItem,5
+dungeonChest,1xitem.spicymustardporkItem@0,Spicy Mustard Pork,harvestcraft:spicymustardporkItem,5
+dungeonChest,1xitem.spicygreensItem@0,Spicy Greens,harvestcraft:spicygreensItem,5
+dungeonChest,1xitem.garlicmashedpotatoesItem@0,Garlic Mashed Potatoes,harvestcraft:garlicmashedpotatoesItem,5
+dungeonChest,1xitem.garlicchickenItem@0,Garlic Chicken,harvestcraft:garlicchickenItem,5
+dungeonChest,1xitem.summersquashwithradishItem@0,Summer Squash with Radish,harvestcraft:summersquashwithradishItem,5
+dungeonChest,1xitem.chickencelerycasseroleItem@0,Chicken Celery Casserole,harvestcraft:chickencelerycasseroleItem,5
+dungeonChest,1xitem.zucchinifriesItem@0,Zucchini Fries,harvestcraft:zucchinifriesItem,5
+dungeonChest,1xitem.zestyzucchiniItem@0,Zesty Zucchini,harvestcraft:zestyzucchiniItem,5
+dungeonChest,1xitem.zucchinibakeItem@0,Zucchini Bake,harvestcraft:zucchinibakeItem,5
+dungeonChest,1xitem.walnutraisinbreadItem@0,Walnut Raisin Bread,harvestcraft:walnutraisinbreadItem,5
+dungeonChest,1xitem.brownieItem@0,Brownie,harvestcraft:brownieItem,5
+dungeonChest,1xitem.guacamoleItem@0,Guacamole,harvestcraft:guacamoleItem,5
+dungeonChest,1xitem.creamofavocadosoupItem@0,Cream of Avocado Soup,harvestcraft:creamofavocadosoupItem,5
+dungeonChest,1xitem.avocadoburritoItem@0,Avocado Burrito,harvestcraft:avocadoburritoItem,5
+dungeonChest,1xitem.bananasplitItem@0,Banana Split,harvestcraft:bananasplitItem,5
+dungeonChest,1xitem.chickencurryItem@0,Chicken Curry,harvestcraft:chickencurryItem,5
+dungeonChest,1xitem.coconutshrimpItem@0,Coconut Shrimp,harvestcraft:coconutshrimpItem,5
+dungeonChest,1xitem.orangechickenItem@0,Orange Chicken,harvestcraft:orangechickenItem,5
+dungeonChest,1xitem.frenchtoastItem@0,French Toast,harvestcraft:frenchtoastItem,5
+dungeonChest,1xitem.friedchickenItem@0,Fried Chicken,harvestcraft:friedchickenItem,5
+dungeonChest,1xitem.footlongItem@0,Footlong,harvestcraft:footlongItem,5
+dungeonChest,1xitem.sunflowerwheatrollsItem@0,Sunflower Wheat Rolls,harvestcraft:sunflowerwheatrollsItem,5
+dungeonChest,1xitem.sunflowerbroccolisaladItem@0,Sunflower Broccoli Salad,harvestcraft:sunflowerbroccolisaladItem,5
+dungeonChest,1xitem.baklavaItem@0,Baklava,harvestcraft:baklavaItem,5
+dungeonChest,1xitem.baconmushroomburgerItem@0,Bacon Mushroom Burger,harvestcraft:baconmushroomburgerItem,5
+dungeonChest,1xitem.mixedsaladItem@0,Mixed Salad,harvestcraft:mixedsaladItem,5
+dungeonChest,1xitem.shepardspieItem@0,Shepard's Pie,harvestcraft:shepardspieItem,5
+dungeonChest,1xitem.applejellysandwichItem@0,Apple Jelly Sandwich,harvestcraft:applejellysandwichItem,5
+dungeonChest,1xitem.blackberryjellysandwichItem@0,Blackberry Jelly Sandwich,harvestcraft:blackberryjellysandwichItem,5
+dungeonChest,1xitem.blueberryjellysandwichItem@0,Blueberry Jelly Sandwich,harvestcraft:blueberryjellysandwichItem,5
+dungeonChest,1xitem.cherryjellysandwichItem@0,Cherry Jelly Sandwich,harvestcraft:cherryjellysandwichItem,5
+dungeonChest,1xitem.cranberryjellysandwichItem@0,Cranberry Jelly Sandwich,harvestcraft:cranberryjellysandwichItem,5
+dungeonChest,1xitem.kiwijellysandwichItem@0,Kiwi Jelly Sandwich,harvestcraft:kiwijellysandwichItem,5
+dungeonChest,1xitem.lemonjellysandwichItem@0,Lemon Jelly Sandwich,harvestcraft:lemonjellysandwichItem,5
+dungeonChest,1xitem.limejellysandwichItem@0,Lime Jelly Sandwich,harvestcraft:limejellysandwichItem,5
+dungeonChest,1xitem.mangojellysandwichItem@0,Mango Jelly Sandwich,harvestcraft:mangojellysandwichItem,5
+dungeonChest,1xitem.orangejellysandwichItem@0,Orange Jelly Sandwich,harvestcraft:orangejellysandwichItem,5
+dungeonChest,1xitem.papayajellysandwichItem@0,Papaya Jelly Sandwich,harvestcraft:papayajellysandwichItem,5
+dungeonChest,1xitem.peachjellysandwichItem@0,Peach Jelly Sandwich,harvestcraft:peachjellysandwichItem,5
+dungeonChest,1xitem.pomegranatejellysandwichItem@0,Pomegranate Jelly Sandwich,harvestcraft:pomegranatejellysandwichItem,5
+dungeonChest,1xitem.raspberryjellysandwichItem@0,Raspberry Jelly Sandwich,harvestcraft:raspberryjellysandwichItem,5
+dungeonChest,1xitem.starfruitjellysandwichItem@0,Starfruit Jelly Sandwich,harvestcraft:starfruitjellysandwichItem,5
+dungeonChest,1xitem.strawberryjellysandwichItem@0,Strawberry Jelly Sandwich,harvestcraft:strawberryjellysandwichItem,5
+dungeonChest,1xitem.watermelonjellysandwichItem@0,Watermelon Jelly Sandwich,harvestcraft:watermelonjellysandwichItem,5
+dungeonChest,1xitem.mintchocolatechipicemcreamItem@0,Mint Chocolate Chip Ice Cream,harvestcraft:mintchocolatechipicemcreamItem,5
+dungeonChest,1xitem.gingerchickenItem@0,Ginger Chicken,harvestcraft:gingerchickenItem,5
+dungeonChest,1xitem.lambbarleysoupItem@0,Lamb Barley Soup,harvestcraft:lambbarleysoupItem,5
+dungeonChest,1xitem.ovenroastedcauliflowerItem@0,Oven Roasted Cauliflower,harvestcraft:ovenroastedcauliflowerItem,5
+dungeonChest,1xitem.apricotjellysandwichItem@0,Apricot Jelly Sandwich,harvestcraft:apricotjellysandwichItem,5
+dungeonChest,1xitem.figjellysandwichItem@0,Fig Jelly Sandwich,harvestcraft:figjellysandwichItem,5
+dungeonChest,1xitem.grapefruitjellysandwichItem@0,Grapefruit Jelly Sandwich,harvestcraft:grapefruitjellysandwichItem,5
+dungeonChest,1xitem.persimmonjellysandwichItem@0,Persimmon Jelly Sandwich,harvestcraft:persimmonjellysandwichItem,5
+dungeonChest,1xitem.pistachiobakedsalmonItem@0,Pistachio Baked Salmon,harvestcraft:pistachiobakedsalmonItem,5
+dungeonChest,1xitem.baconwrappeddatesItem@0,Bacon Wrapped Dates,harvestcraft:baconwrappeddatesItem,5
+dungeonChest,1xitem.sausageinbreadItem@0,Sausage in Bread,harvestcraft:sausageinbreadItem,5
+dungeonChest,1xitem.beefwellingtonItem@0,Beef Wellington,harvestcraft:beefwellingtonItem,5
+dungeonChest,1xitem.epicbaconItem@0,Epic Bacon,harvestcraft:epicbaconItem,5
+dungeonChest,1xitem.chickengumboItem@0,Chicken Gumbo,harvestcraft:chickengumboItem,5
+dungeonChest,1xitem.generaltsochickenItem@0,General Tso's Chicken,harvestcraft:generaltsochickenItem,5
+dungeonChest,1xitem.cherrycoconutchocolatebarItem@0,Cherry Coconut Chocolate Bar,harvestcraft:cherrycoconutchocolatebarItem,5
+dungeonChest,1xitem.meatpieItem@0,Meat Pie,harvestcraft:meatpieItem,5
+dungeonChest,1xitem.chikorollItem@0,Chiko Roll,harvestcraft:chikorollItem,5
+dungeonChest,1xitem.beetburgerItem@0,Beet Burger,harvestcraft:beetburgerItem,5
+dungeonChest,1xitem.pavlovaItem@0,Pavlova,harvestcraft:pavlovaItem,5
+dungeonChest,1xitem.mcpamItem@0,McPam,harvestcraft:mcpamItem,5
+dungeonChest,1xitem.ceasarsaladItem@0,Ceasar Salad,harvestcraft:ceasarsaladItem,5
+dungeonChest,1xitem.chocolatebaconItem@0,Chocolate Bacon,harvestcraft:chocolatebaconItem,5
+dungeonChest,1xitem.lambkebabItem@0,Lamb Kebab,harvestcraft:lambkebabItem,5
+dungeonChest,1xitem.holidaycakeItem@0,Holiday Cake,harvestcraft:holidaycakeItem,5
+dungeonChest,1xitem.bangersandmashItem@0,Bangers and Mash,harvestcraft:bangersandmashItem,5
+dungeonChest,1xitem.batteredsausageItem@0,Battered Sausage,harvestcraft:batteredsausageItem,5
+dungeonChest,1xitem.chorizoItem@0,Chorizo,harvestcraft:chorizoItem,5
+dungeonChest,1xitem.meatfeastpizzaItem@0,Meat Feast Pizza,harvestcraft:meatfeastpizzaItem,5
+dungeonChest,1xitem.mincepieItem@0,Mince Pie,harvestcraft:mincepieItem,5
+dungeonChest,1xitem.onionhamburgerItem@0,Onion Hamburger,harvestcraft:onionhamburgerItem,5
+dungeonChest,1xitem.pepperoniItem@0,Pepperoni,harvestcraft:pepperoniItem,5
+dungeonChest,1xitem.pumpkincheesecakeItem@0,Pumpkin Cheesecake,harvestcraft:pumpkincheesecakeItem,5
+dungeonChest,1xitem.suaderoItem@0,Suadero,harvestcraft:suaderoItem,5
+dungeonChest,1xitem.randomtacoItem@0,Random Taco,harvestcraft:randomtacoItem,5
+mineshaftCorridor,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+mineshaftCorridor,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,5
+mineshaftCorridor,1xitem.redstone@0,Redstone,minecraft:redstone,5
+mineshaftCorridor,1xitem.dyePowder@4,Lapis Lazuli,minecraft:dye,5
+mineshaftCorridor,1xitem.diamond@0,Diamond,minecraft:diamond,3
+mineshaftCorridor,1xitem.coal@0,Coal,minecraft:coal,10
+mineshaftCorridor,1xitem.bread@0,Bread,minecraft:bread,15
+mineshaftCorridor,1xitem.pickaxeIron@0,Iron Pickaxe,minecraft:iron_pickaxe,1
+mineshaftCorridor,1xtile.rail@0,Rail,minecraft:rail,1
+mineshaftCorridor,1xitem.seeds_melon@0,Melon Seeds,minecraft:melon_seeds,10
+mineshaftCorridor,1xitem.seeds_pumpkin@0,Pumpkin Seeds,minecraft:pumpkin_seeds,10
+mineshaftCorridor,1xitem.saddle@0,Saddle,minecraft:saddle,3
+mineshaftCorridor,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+mineshaftCorridor,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+mineshaftCorridor,1xitem.openblocks.glasses.technicolor@0,Amazing Technicolor Glasses,OpenBlocks:technicolorGlasses,2
+mineshaftCorridor,1xitem.ashSeeds@0,Ashenwheat Seeds,ashenwheat:ashSeeds,3
+mineshaftCorridor,1xitem.scintillaSeeds@0,Scintillawheat Seeds,ashenwheat:scintillaSeeds,1
+mineshaftCorridor,1xitem.ossidSeeds@0,Ossidroot Seeds,ashenwheat:ossidSeeds,2
+mineshaftCorridor,1xitem.thunderSeeds@0,Thundergrass Seeds,ashenwheat:thunderSeeds,2
+mineshaftCorridor,1xitem.item.shaftcraft@0,Base Panel,RotaryCraft:rotarycraft_item_shaftcraft,1
+mineshaftCorridor,1xitem.item.shaftcraft@1,HSLA Steel Ingot,RotaryCraft:rotarycraft_item_shaftcraft,12
+mineshaftCorridor,1xitem.item.shaftcraft@2,Shaft Unit,RotaryCraft:rotarycraft_item_shaftcraft,10
+mineshaftCorridor,1xitem.item.shaftcraft@3,Mount,RotaryCraft:rotarycraft_item_shaftcraft,2
+mineshaftCorridor,1xitem.item.shaftcraft@4,HSLA Steel Gear,RotaryCraft:rotarycraft_item_shaftcraft,9
+mineshaftCorridor,1xitem.item.shaftcraft@5,2x Gear Unit,RotaryCraft:rotarycraft_item_shaftcraft,5
+mineshaftCorridor,1xitem.item.borecraft@0,Drill,RotaryCraft:rotarycraft_item_borecraft,3
+mineshaftCorridor,1xitem.item.enginecraft@8,Gold Coil,RotaryCraft:rotarycraft_item_enginecraft,1
+mineshaftCorridor,1xitem.item.shaftcraft@9,HSLA Steel Scrap,RotaryCraft:rotarycraft_item_shaftcraft,12
+mineshaftCorridor,1xitem.item.shaftcraft@10,Iron Scrap,RotaryCraft:rotarycraft_item_shaftcraft,12
+mineshaftCorridor,1xitem.item.canola@0,Canola Seeds,RotaryCraft:rotarycraft_item_canola,10
+mineshaftCorridor,1xitem.item.screwdriver@0,Screwdriver,RotaryCraft:rotarycraft_item_screwdriver,1
+mineshaftCorridor,1xitem.item.meter@0,Angular Transducer,RotaryCraft:rotarycraft_item_meter,1
+mineshaftCorridor,1xitem.item.powder@3,Sawdust,RotaryCraft:rotarycraft_item_powders,7
+mineshaftCorridor,1xitem.gardencontainers.potteryPatternDirty@0,Clay Pattern Stamp,GardenContainers:pottery_pattern_dirty,1
+mineshaftCorridor,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+mineshaftCorridor,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,1
+mineshaftCorridor,1xitem.loadedbakedpotatoItem@0,Loaded Baked Potato,harvestcraft:loadedbakedpotatoItem,5
+mineshaftCorridor,1xitem.chickenpotpieItem@0,Chicken Pot Pie,harvestcraft:chickenpotpieItem,5
+mineshaftCorridor,1xitem.baconcheeseburgerItem@0,Bacon Cheeseburger,harvestcraft:baconcheeseburgerItem,5
+mineshaftCorridor,1xitem.potroastItem@0,Pot Roast,harvestcraft:potroastItem,5
+mineshaftCorridor,1xitem.spagettiandmeatballsItem@0,Spagetti and Meatballs,harvestcraft:spagettiandmeatballsItem,5
+mineshaftCorridor,1xitem.pizzaItem@0,Pizza,harvestcraft:pizzaItem,5
+mineshaftCorridor,1xitem.bltItem@0,BLT,harvestcraft:bltItem,5
+mineshaftCorridor,1xitem.leafychickensandwichItem@0,Leafy Chicken Sandwich,harvestcraft:leafychickensandwichItem,5
+mineshaftCorridor,1xitem.deluxecheeseburgerItem@0,Deluxe Cheeseburger,harvestcraft:deluxecheeseburgerItem,5
+mineshaftCorridor,1xitem.delightedmealItem@0,Delighted Meal,harvestcraft:delightedmealItem,5
+mineshaftCorridor,1xitem.onionsoupItem@0,Onion Soup,harvestcraft:onionsoupItem,5
+mineshaftCorridor,1xitem.hashItem@0,Hash,harvestcraft:hashItem,5
+mineshaftCorridor,1xitem.heartybreakfastItem@0,Hearty Breakfast,harvestcraft:heartybreakfastItem,5
+mineshaftCorridor,1xitem.tacoItem@0,Taco,harvestcraft:tacoItem,5
+mineshaftCorridor,1xitem.trailmixItem@0,Trail Mix,harvestcraft:trailmixItem,5
+mineshaftCorridor,1xitem.pbandjItem@0,PB&J,harvestcraft:pbandjItem,5
+mineshaftCorridor,1xitem.cucumbersaladItem@0,Cucumber Salad,harvestcraft:cucumbersaladItem,5
+mineshaftCorridor,1xitem.friedriceItem@0,Fried Rice,harvestcraft:friedriceItem,5
+mineshaftCorridor,1xitem.mushroomrisottoItem@0,Mushroom Risotto,harvestcraft:mushroomrisottoItem,5
+mineshaftCorridor,1xitem.curryItem@0,Curry Rice,harvestcraft:curryItem,5
+mineshaftCorridor,1xitem.rainbowcurryItem@0,Rainbow Curry,harvestcraft:rainbowcurryItem,5
+mineshaftCorridor,1xitem.bakedbeansItem@0,Baked Beans,harvestcraft:bakedbeansItem,5
+mineshaftCorridor,1xitem.beansandriceItem@0,Beans and Rice,harvestcraft:beansandriceItem,5
+mineshaftCorridor,1xitem.chiliItem@0,Chili,harvestcraft:chiliItem,5
+mineshaftCorridor,1xitem.veggiestirfryItem@0,Veggie Stirfry,harvestcraft:veggiestirfryItem,5
+mineshaftCorridor,1xitem.supremepizzaItem@0,Supreme Pizza,harvestcraft:supremepizzaItem,5
+mineshaftCorridor,1xitem.extremechiliItem@0,Extreme Chili,harvestcraft:extremechiliItem,5
+mineshaftCorridor,1xitem.lemonmeringueItem@0,Lemon Meringue,harvestcraft:lemonmeringueItem,5
+mineshaftCorridor,1xitem.cheesecakeItem@0,Cheesecake,harvestcraft:cheesecakeItem,5
+mineshaftCorridor,1xitem.cherrycheesecakeItem@0,Cherry Cheesecake,harvestcraft:cherrycheesecakeItem,5
+mineshaftCorridor,1xitem.stuffedeggplantItem@0,Stuffed Eggplant,harvestcraft:stuffedeggplantItem,5
+mineshaftCorridor,1xitem.eggplantparmItem@0,Eggplant Parm,harvestcraft:eggplantparmItem,5
+mineshaftCorridor,1xitem.coffeeconlecheItem@0,Coffee con Leche,harvestcraft:coffeeconlecheItem,5
+mineshaftCorridor,1xitem.mochaicecreamItem@0,Mocha Ice Cream,harvestcraft:mochaicecreamItem,5
+mineshaftCorridor,1xitem.beetsaladItem@0,Beet Salad,harvestcraft:beetsaladItem,5
+mineshaftCorridor,1xitem.bakedbeetsItem@0,Baked Beets,harvestcraft:bakedbeetsItem,5
+mineshaftCorridor,1xitem.creamedbroccolisoupItem@0,Creamed Broccoli Soup,harvestcraft:creamedbroccolisoupItem,5
+mineshaftCorridor,1xitem.sweetpotatopieItem@0,Sweet Potato Pie,harvestcraft:sweetpotatopieItem,5
+mineshaftCorridor,1xitem.splitpeasoupItem@0,Split Pea Soup,harvestcraft:splitpeasoupItem,5
+mineshaftCorridor,1xitem.pineappleupsidedowncakeItem@0,Pineapple Upsidedown Cake,harvestcraft:pineappleupsidedowncakeItem,5
+mineshaftCorridor,1xitem.pineapplehamItem@0,Pineapple Ham,harvestcraft:pineapplehamItem,5
+mineshaftCorridor,1xitem.roastedrootveggiemedleyItem@0,Roasted Root Veggie Medley,harvestcraft:roastedrootveggiemedleyItem,5
+mineshaftCorridor,1xitem.gingerbreadItem@0,Ginger Bread,harvestcraft:gingerbreadItem,5
+mineshaftCorridor,1xitem.softpretzelandmustardItem@0,Soft Pretzel and Mustard,harvestcraft:softpretzelandmustardItem,5
+mineshaftCorridor,1xitem.spicymustardporkItem@0,Spicy Mustard Pork,harvestcraft:spicymustardporkItem,5
+mineshaftCorridor,1xitem.spicygreensItem@0,Spicy Greens,harvestcraft:spicygreensItem,5
+mineshaftCorridor,1xitem.garlicmashedpotatoesItem@0,Garlic Mashed Potatoes,harvestcraft:garlicmashedpotatoesItem,5
+mineshaftCorridor,1xitem.garlicchickenItem@0,Garlic Chicken,harvestcraft:garlicchickenItem,5
+mineshaftCorridor,1xitem.summersquashwithradishItem@0,Summer Squash with Radish,harvestcraft:summersquashwithradishItem,5
+mineshaftCorridor,1xitem.chickencelerycasseroleItem@0,Chicken Celery Casserole,harvestcraft:chickencelerycasseroleItem,5
+mineshaftCorridor,1xitem.zucchinifriesItem@0,Zucchini Fries,harvestcraft:zucchinifriesItem,5
+mineshaftCorridor,1xitem.zestyzucchiniItem@0,Zesty Zucchini,harvestcraft:zestyzucchiniItem,5
+mineshaftCorridor,1xitem.zucchinibakeItem@0,Zucchini Bake,harvestcraft:zucchinibakeItem,5
+mineshaftCorridor,1xitem.walnutraisinbreadItem@0,Walnut Raisin Bread,harvestcraft:walnutraisinbreadItem,5
+mineshaftCorridor,1xitem.brownieItem@0,Brownie,harvestcraft:brownieItem,5
+mineshaftCorridor,1xitem.guacamoleItem@0,Guacamole,harvestcraft:guacamoleItem,5
+mineshaftCorridor,1xitem.creamofavocadosoupItem@0,Cream of Avocado Soup,harvestcraft:creamofavocadosoupItem,5
+mineshaftCorridor,1xitem.avocadoburritoItem@0,Avocado Burrito,harvestcraft:avocadoburritoItem,5
+mineshaftCorridor,1xitem.bananasplitItem@0,Banana Split,harvestcraft:bananasplitItem,5
+mineshaftCorridor,1xitem.chickencurryItem@0,Chicken Curry,harvestcraft:chickencurryItem,5
+mineshaftCorridor,1xitem.coconutshrimpItem@0,Coconut Shrimp,harvestcraft:coconutshrimpItem,5
+mineshaftCorridor,1xitem.orangechickenItem@0,Orange Chicken,harvestcraft:orangechickenItem,5
+mineshaftCorridor,1xitem.frenchtoastItem@0,French Toast,harvestcraft:frenchtoastItem,5
+mineshaftCorridor,1xitem.friedchickenItem@0,Fried Chicken,harvestcraft:friedchickenItem,5
+mineshaftCorridor,1xitem.footlongItem@0,Footlong,harvestcraft:footlongItem,5
+mineshaftCorridor,1xitem.sunflowerwheatrollsItem@0,Sunflower Wheat Rolls,harvestcraft:sunflowerwheatrollsItem,5
+mineshaftCorridor,1xitem.sunflowerbroccolisaladItem@0,Sunflower Broccoli Salad,harvestcraft:sunflowerbroccolisaladItem,5
+mineshaftCorridor,1xitem.baklavaItem@0,Baklava,harvestcraft:baklavaItem,5
+mineshaftCorridor,1xitem.baconmushroomburgerItem@0,Bacon Mushroom Burger,harvestcraft:baconmushroomburgerItem,5
+mineshaftCorridor,1xitem.mixedsaladItem@0,Mixed Salad,harvestcraft:mixedsaladItem,5
+mineshaftCorridor,1xitem.shepardspieItem@0,Shepard's Pie,harvestcraft:shepardspieItem,5
+mineshaftCorridor,1xitem.applejellysandwichItem@0,Apple Jelly Sandwich,harvestcraft:applejellysandwichItem,5
+mineshaftCorridor,1xitem.blackberryjellysandwichItem@0,Blackberry Jelly Sandwich,harvestcraft:blackberryjellysandwichItem,5
+mineshaftCorridor,1xitem.blueberryjellysandwichItem@0,Blueberry Jelly Sandwich,harvestcraft:blueberryjellysandwichItem,5
+mineshaftCorridor,1xitem.cherryjellysandwichItem@0,Cherry Jelly Sandwich,harvestcraft:cherryjellysandwichItem,5
+mineshaftCorridor,1xitem.cranberryjellysandwichItem@0,Cranberry Jelly Sandwich,harvestcraft:cranberryjellysandwichItem,5
+mineshaftCorridor,1xitem.kiwijellysandwichItem@0,Kiwi Jelly Sandwich,harvestcraft:kiwijellysandwichItem,5
+mineshaftCorridor,1xitem.lemonjellysandwichItem@0,Lemon Jelly Sandwich,harvestcraft:lemonjellysandwichItem,5
+mineshaftCorridor,1xitem.limejellysandwichItem@0,Lime Jelly Sandwich,harvestcraft:limejellysandwichItem,5
+mineshaftCorridor,1xitem.mangojellysandwichItem@0,Mango Jelly Sandwich,harvestcraft:mangojellysandwichItem,5
+mineshaftCorridor,1xitem.orangejellysandwichItem@0,Orange Jelly Sandwich,harvestcraft:orangejellysandwichItem,5
+mineshaftCorridor,1xitem.papayajellysandwichItem@0,Papaya Jelly Sandwich,harvestcraft:papayajellysandwichItem,5
+mineshaftCorridor,1xitem.peachjellysandwichItem@0,Peach Jelly Sandwich,harvestcraft:peachjellysandwichItem,5
+mineshaftCorridor,1xitem.pomegranatejellysandwichItem@0,Pomegranate Jelly Sandwich,harvestcraft:pomegranatejellysandwichItem,5
+mineshaftCorridor,1xitem.raspberryjellysandwichItem@0,Raspberry Jelly Sandwich,harvestcraft:raspberryjellysandwichItem,5
+mineshaftCorridor,1xitem.starfruitjellysandwichItem@0,Starfruit Jelly Sandwich,harvestcraft:starfruitjellysandwichItem,5
+mineshaftCorridor,1xitem.strawberryjellysandwichItem@0,Strawberry Jelly Sandwich,harvestcraft:strawberryjellysandwichItem,5
+mineshaftCorridor,1xitem.watermelonjellysandwichItem@0,Watermelon Jelly Sandwich,harvestcraft:watermelonjellysandwichItem,5
+mineshaftCorridor,1xitem.mintchocolatechipicemcreamItem@0,Mint Chocolate Chip Ice Cream,harvestcraft:mintchocolatechipicemcreamItem,5
+mineshaftCorridor,1xitem.gingerchickenItem@0,Ginger Chicken,harvestcraft:gingerchickenItem,5
+mineshaftCorridor,1xitem.lambbarleysoupItem@0,Lamb Barley Soup,harvestcraft:lambbarleysoupItem,5
+mineshaftCorridor,1xitem.ovenroastedcauliflowerItem@0,Oven Roasted Cauliflower,harvestcraft:ovenroastedcauliflowerItem,5
+mineshaftCorridor,1xitem.apricotjellysandwichItem@0,Apricot Jelly Sandwich,harvestcraft:apricotjellysandwichItem,5
+mineshaftCorridor,1xitem.figjellysandwichItem@0,Fig Jelly Sandwich,harvestcraft:figjellysandwichItem,5
+mineshaftCorridor,1xitem.grapefruitjellysandwichItem@0,Grapefruit Jelly Sandwich,harvestcraft:grapefruitjellysandwichItem,5
+mineshaftCorridor,1xitem.persimmonjellysandwichItem@0,Persimmon Jelly Sandwich,harvestcraft:persimmonjellysandwichItem,5
+mineshaftCorridor,1xitem.pistachiobakedsalmonItem@0,Pistachio Baked Salmon,harvestcraft:pistachiobakedsalmonItem,5
+mineshaftCorridor,1xitem.baconwrappeddatesItem@0,Bacon Wrapped Dates,harvestcraft:baconwrappeddatesItem,5
+mineshaftCorridor,1xitem.sausageinbreadItem@0,Sausage in Bread,harvestcraft:sausageinbreadItem,5
+mineshaftCorridor,1xitem.beefwellingtonItem@0,Beef Wellington,harvestcraft:beefwellingtonItem,5
+mineshaftCorridor,1xitem.epicbaconItem@0,Epic Bacon,harvestcraft:epicbaconItem,5
+mineshaftCorridor,1xitem.chickengumboItem@0,Chicken Gumbo,harvestcraft:chickengumboItem,5
+mineshaftCorridor,1xitem.generaltsochickenItem@0,General Tso's Chicken,harvestcraft:generaltsochickenItem,5
+mineshaftCorridor,1xitem.cherrycoconutchocolatebarItem@0,Cherry Coconut Chocolate Bar,harvestcraft:cherrycoconutchocolatebarItem,5
+mineshaftCorridor,1xitem.meatpieItem@0,Meat Pie,harvestcraft:meatpieItem,5
+mineshaftCorridor,1xitem.chikorollItem@0,Chiko Roll,harvestcraft:chikorollItem,5
+mineshaftCorridor,1xitem.beetburgerItem@0,Beet Burger,harvestcraft:beetburgerItem,5
+mineshaftCorridor,1xitem.pavlovaItem@0,Pavlova,harvestcraft:pavlovaItem,5
+mineshaftCorridor,1xitem.mcpamItem@0,McPam,harvestcraft:mcpamItem,5
+mineshaftCorridor,1xitem.ceasarsaladItem@0,Ceasar Salad,harvestcraft:ceasarsaladItem,5
+mineshaftCorridor,1xitem.chocolatebaconItem@0,Chocolate Bacon,harvestcraft:chocolatebaconItem,5
+mineshaftCorridor,1xitem.lambkebabItem@0,Lamb Kebab,harvestcraft:lambkebabItem,5
+mineshaftCorridor,1xitem.holidaycakeItem@0,Holiday Cake,harvestcraft:holidaycakeItem,5
+mineshaftCorridor,1xitem.bangersandmashItem@0,Bangers and Mash,harvestcraft:bangersandmashItem,5
+mineshaftCorridor,1xitem.batteredsausageItem@0,Battered Sausage,harvestcraft:batteredsausageItem,5
+mineshaftCorridor,1xitem.chorizoItem@0,Chorizo,harvestcraft:chorizoItem,5
+mineshaftCorridor,1xitem.meatfeastpizzaItem@0,Meat Feast Pizza,harvestcraft:meatfeastpizzaItem,5
+mineshaftCorridor,1xitem.mincepieItem@0,Mince Pie,harvestcraft:mincepieItem,5
+mineshaftCorridor,1xitem.onionhamburgerItem@0,Onion Hamburger,harvestcraft:onionhamburgerItem,5
+mineshaftCorridor,1xitem.pepperoniItem@0,Pepperoni,harvestcraft:pepperoniItem,5
+mineshaftCorridor,1xitem.pumpkincheesecakeItem@0,Pumpkin Cheesecake,harvestcraft:pumpkincheesecakeItem,5
+mineshaftCorridor,1xitem.suaderoItem@0,Suadero,harvestcraft:suaderoItem,5
+mineshaftCorridor,1xitem.randomtacoItem@0,Random Taco,harvestcraft:randomtacoItem,5
+pyramidDesertyChest,1xitem.diamond@0,Diamond,minecraft:diamond,3
+pyramidDesertyChest,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+pyramidDesertyChest,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,15
+pyramidDesertyChest,1xitem.emerald@0,Emerald,minecraft:emerald,2
+pyramidDesertyChest,1xitem.bone@0,Bone,minecraft:bone,20
+pyramidDesertyChest,1xitem.rottenFlesh@0,Rotten Flesh,minecraft:rotten_flesh,16
+pyramidDesertyChest,1xitem.saddle@0,Saddle,minecraft:saddle,3
+pyramidDesertyChest,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+pyramidDesertyChest,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,1
+pyramidDesertyChest,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+pyramidDesertyChest,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+pyramidDesertyChest,1xitem.scintillaSeeds@0,Scintillawheat Seeds,ashenwheat:scintillaSeeds,16
+pyramidDesertyChest,1xitem.scintillaWheatSheaf@0,Scintillawheat Sheaf,ashenwheat:scintillaWheatSheaf,6
+pyramidDesertyChest,1xitem.ashCookie@0,Ashenwheat Cookie,ashenwheat:ashCookie,12
+pyramidDesertyChest,1xitem.scintillaCookie@0,Scintillawheat Cookie,ashenwheat:scintillaCookie,12
+pyramidDesertyChest,1xitem.tconstruct.canister@1,Miniature Red Heart,TConstruct:heartCanister,10
+pyramidDesertyChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+pyramidDesertyChest,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,3
+pyramidDesertyChest,1xitem.loadedbakedpotatoItem@0,Loaded Baked Potato,harvestcraft:loadedbakedpotatoItem,5
+pyramidDesertyChest,1xitem.chickenpotpieItem@0,Chicken Pot Pie,harvestcraft:chickenpotpieItem,5
+pyramidDesertyChest,1xitem.baconcheeseburgerItem@0,Bacon Cheeseburger,harvestcraft:baconcheeseburgerItem,5
+pyramidDesertyChest,1xitem.potroastItem@0,Pot Roast,harvestcraft:potroastItem,5
+pyramidDesertyChest,1xitem.spagettiandmeatballsItem@0,Spagetti and Meatballs,harvestcraft:spagettiandmeatballsItem,5
+pyramidDesertyChest,1xitem.pizzaItem@0,Pizza,harvestcraft:pizzaItem,5
+pyramidDesertyChest,1xitem.bltItem@0,BLT,harvestcraft:bltItem,5
+pyramidDesertyChest,1xitem.leafychickensandwichItem@0,Leafy Chicken Sandwich,harvestcraft:leafychickensandwichItem,5
+pyramidDesertyChest,1xitem.deluxecheeseburgerItem@0,Deluxe Cheeseburger,harvestcraft:deluxecheeseburgerItem,5
+pyramidDesertyChest,1xitem.delightedmealItem@0,Delighted Meal,harvestcraft:delightedmealItem,5
+pyramidDesertyChest,1xitem.onionsoupItem@0,Onion Soup,harvestcraft:onionsoupItem,5
+pyramidDesertyChest,1xitem.hashItem@0,Hash,harvestcraft:hashItem,5
+pyramidDesertyChest,1xitem.heartybreakfastItem@0,Hearty Breakfast,harvestcraft:heartybreakfastItem,5
+pyramidDesertyChest,1xitem.tacoItem@0,Taco,harvestcraft:tacoItem,5
+pyramidDesertyChest,1xitem.trailmixItem@0,Trail Mix,harvestcraft:trailmixItem,5
+pyramidDesertyChest,1xitem.pbandjItem@0,PB&J,harvestcraft:pbandjItem,5
+pyramidDesertyChest,1xitem.cucumbersaladItem@0,Cucumber Salad,harvestcraft:cucumbersaladItem,5
+pyramidDesertyChest,1xitem.friedriceItem@0,Fried Rice,harvestcraft:friedriceItem,5
+pyramidDesertyChest,1xitem.mushroomrisottoItem@0,Mushroom Risotto,harvestcraft:mushroomrisottoItem,5
+pyramidDesertyChest,1xitem.curryItem@0,Curry Rice,harvestcraft:curryItem,5
+pyramidDesertyChest,1xitem.rainbowcurryItem@0,Rainbow Curry,harvestcraft:rainbowcurryItem,5
+pyramidDesertyChest,1xitem.bakedbeansItem@0,Baked Beans,harvestcraft:bakedbeansItem,5
+pyramidDesertyChest,1xitem.beansandriceItem@0,Beans and Rice,harvestcraft:beansandriceItem,5
+pyramidDesertyChest,1xitem.chiliItem@0,Chili,harvestcraft:chiliItem,5
+pyramidDesertyChest,1xitem.veggiestirfryItem@0,Veggie Stirfry,harvestcraft:veggiestirfryItem,5
+pyramidDesertyChest,1xitem.supremepizzaItem@0,Supreme Pizza,harvestcraft:supremepizzaItem,5
+pyramidDesertyChest,1xitem.extremechiliItem@0,Extreme Chili,harvestcraft:extremechiliItem,5
+pyramidDesertyChest,1xitem.lemonmeringueItem@0,Lemon Meringue,harvestcraft:lemonmeringueItem,5
+pyramidDesertyChest,1xitem.cheesecakeItem@0,Cheesecake,harvestcraft:cheesecakeItem,5
+pyramidDesertyChest,1xitem.cherrycheesecakeItem@0,Cherry Cheesecake,harvestcraft:cherrycheesecakeItem,5
+pyramidDesertyChest,1xitem.stuffedeggplantItem@0,Stuffed Eggplant,harvestcraft:stuffedeggplantItem,5
+pyramidDesertyChest,1xitem.eggplantparmItem@0,Eggplant Parm,harvestcraft:eggplantparmItem,5
+pyramidDesertyChest,1xitem.coffeeconlecheItem@0,Coffee con Leche,harvestcraft:coffeeconlecheItem,5
+pyramidDesertyChest,1xitem.mochaicecreamItem@0,Mocha Ice Cream,harvestcraft:mochaicecreamItem,5
+pyramidDesertyChest,1xitem.beetsaladItem@0,Beet Salad,harvestcraft:beetsaladItem,5
+pyramidDesertyChest,1xitem.bakedbeetsItem@0,Baked Beets,harvestcraft:bakedbeetsItem,5
+pyramidDesertyChest,1xitem.creamedbroccolisoupItem@0,Creamed Broccoli Soup,harvestcraft:creamedbroccolisoupItem,5
+pyramidDesertyChest,1xitem.sweetpotatopieItem@0,Sweet Potato Pie,harvestcraft:sweetpotatopieItem,5
+pyramidDesertyChest,1xitem.splitpeasoupItem@0,Split Pea Soup,harvestcraft:splitpeasoupItem,5
+pyramidDesertyChest,1xitem.pineappleupsidedowncakeItem@0,Pineapple Upsidedown Cake,harvestcraft:pineappleupsidedowncakeItem,5
+pyramidDesertyChest,1xitem.pineapplehamItem@0,Pineapple Ham,harvestcraft:pineapplehamItem,5
+pyramidDesertyChest,1xitem.roastedrootveggiemedleyItem@0,Roasted Root Veggie Medley,harvestcraft:roastedrootveggiemedleyItem,5
+pyramidDesertyChest,1xitem.gingerbreadItem@0,Ginger Bread,harvestcraft:gingerbreadItem,5
+pyramidDesertyChest,1xitem.softpretzelandmustardItem@0,Soft Pretzel and Mustard,harvestcraft:softpretzelandmustardItem,5
+pyramidDesertyChest,1xitem.spicymustardporkItem@0,Spicy Mustard Pork,harvestcraft:spicymustardporkItem,5
+pyramidDesertyChest,1xitem.spicygreensItem@0,Spicy Greens,harvestcraft:spicygreensItem,5
+pyramidDesertyChest,1xitem.garlicmashedpotatoesItem@0,Garlic Mashed Potatoes,harvestcraft:garlicmashedpotatoesItem,5
+pyramidDesertyChest,1xitem.garlicchickenItem@0,Garlic Chicken,harvestcraft:garlicchickenItem,5
+pyramidDesertyChest,1xitem.summersquashwithradishItem@0,Summer Squash with Radish,harvestcraft:summersquashwithradishItem,5
+pyramidDesertyChest,1xitem.chickencelerycasseroleItem@0,Chicken Celery Casserole,harvestcraft:chickencelerycasseroleItem,5
+pyramidDesertyChest,1xitem.zucchinifriesItem@0,Zucchini Fries,harvestcraft:zucchinifriesItem,5
+pyramidDesertyChest,1xitem.zestyzucchiniItem@0,Zesty Zucchini,harvestcraft:zestyzucchiniItem,5
+pyramidDesertyChest,1xitem.zucchinibakeItem@0,Zucchini Bake,harvestcraft:zucchinibakeItem,5
+pyramidDesertyChest,1xitem.walnutraisinbreadItem@0,Walnut Raisin Bread,harvestcraft:walnutraisinbreadItem,5
+pyramidDesertyChest,1xitem.brownieItem@0,Brownie,harvestcraft:brownieItem,5
+pyramidDesertyChest,1xitem.guacamoleItem@0,Guacamole,harvestcraft:guacamoleItem,5
+pyramidDesertyChest,1xitem.creamofavocadosoupItem@0,Cream of Avocado Soup,harvestcraft:creamofavocadosoupItem,5
+pyramidDesertyChest,1xitem.avocadoburritoItem@0,Avocado Burrito,harvestcraft:avocadoburritoItem,5
+pyramidDesertyChest,1xitem.bananasplitItem@0,Banana Split,harvestcraft:bananasplitItem,5
+pyramidDesertyChest,1xitem.chickencurryItem@0,Chicken Curry,harvestcraft:chickencurryItem,5
+pyramidDesertyChest,1xitem.coconutshrimpItem@0,Coconut Shrimp,harvestcraft:coconutshrimpItem,5
+pyramidDesertyChest,1xitem.orangechickenItem@0,Orange Chicken,harvestcraft:orangechickenItem,5
+pyramidDesertyChest,1xitem.frenchtoastItem@0,French Toast,harvestcraft:frenchtoastItem,5
+pyramidDesertyChest,1xitem.friedchickenItem@0,Fried Chicken,harvestcraft:friedchickenItem,5
+pyramidDesertyChest,1xitem.footlongItem@0,Footlong,harvestcraft:footlongItem,5
+pyramidDesertyChest,1xitem.sunflowerwheatrollsItem@0,Sunflower Wheat Rolls,harvestcraft:sunflowerwheatrollsItem,5
+pyramidDesertyChest,1xitem.sunflowerbroccolisaladItem@0,Sunflower Broccoli Salad,harvestcraft:sunflowerbroccolisaladItem,5
+pyramidDesertyChest,1xitem.baklavaItem@0,Baklava,harvestcraft:baklavaItem,5
+pyramidDesertyChest,1xitem.baconmushroomburgerItem@0,Bacon Mushroom Burger,harvestcraft:baconmushroomburgerItem,5
+pyramidDesertyChest,1xitem.mixedsaladItem@0,Mixed Salad,harvestcraft:mixedsaladItem,5
+pyramidDesertyChest,1xitem.shepardspieItem@0,Shepard's Pie,harvestcraft:shepardspieItem,5
+pyramidDesertyChest,1xitem.applejellysandwichItem@0,Apple Jelly Sandwich,harvestcraft:applejellysandwichItem,5
+pyramidDesertyChest,1xitem.blackberryjellysandwichItem@0,Blackberry Jelly Sandwich,harvestcraft:blackberryjellysandwichItem,5
+pyramidDesertyChest,1xitem.blueberryjellysandwichItem@0,Blueberry Jelly Sandwich,harvestcraft:blueberryjellysandwichItem,5
+pyramidDesertyChest,1xitem.cherryjellysandwichItem@0,Cherry Jelly Sandwich,harvestcraft:cherryjellysandwichItem,5
+pyramidDesertyChest,1xitem.cranberryjellysandwichItem@0,Cranberry Jelly Sandwich,harvestcraft:cranberryjellysandwichItem,5
+pyramidDesertyChest,1xitem.kiwijellysandwichItem@0,Kiwi Jelly Sandwich,harvestcraft:kiwijellysandwichItem,5
+pyramidDesertyChest,1xitem.lemonjellysandwichItem@0,Lemon Jelly Sandwich,harvestcraft:lemonjellysandwichItem,5
+pyramidDesertyChest,1xitem.limejellysandwichItem@0,Lime Jelly Sandwich,harvestcraft:limejellysandwichItem,5
+pyramidDesertyChest,1xitem.mangojellysandwichItem@0,Mango Jelly Sandwich,harvestcraft:mangojellysandwichItem,5
+pyramidDesertyChest,1xitem.orangejellysandwichItem@0,Orange Jelly Sandwich,harvestcraft:orangejellysandwichItem,5
+pyramidDesertyChest,1xitem.papayajellysandwichItem@0,Papaya Jelly Sandwich,harvestcraft:papayajellysandwichItem,5
+pyramidDesertyChest,1xitem.peachjellysandwichItem@0,Peach Jelly Sandwich,harvestcraft:peachjellysandwichItem,5
+pyramidDesertyChest,1xitem.pomegranatejellysandwichItem@0,Pomegranate Jelly Sandwich,harvestcraft:pomegranatejellysandwichItem,5
+pyramidDesertyChest,1xitem.raspberryjellysandwichItem@0,Raspberry Jelly Sandwich,harvestcraft:raspberryjellysandwichItem,5
+pyramidDesertyChest,1xitem.starfruitjellysandwichItem@0,Starfruit Jelly Sandwich,harvestcraft:starfruitjellysandwichItem,5
+pyramidDesertyChest,1xitem.strawberryjellysandwichItem@0,Strawberry Jelly Sandwich,harvestcraft:strawberryjellysandwichItem,5
+pyramidDesertyChest,1xitem.watermelonjellysandwichItem@0,Watermelon Jelly Sandwich,harvestcraft:watermelonjellysandwichItem,5
+pyramidDesertyChest,1xitem.mintchocolatechipicemcreamItem@0,Mint Chocolate Chip Ice Cream,harvestcraft:mintchocolatechipicemcreamItem,5
+pyramidDesertyChest,1xitem.gingerchickenItem@0,Ginger Chicken,harvestcraft:gingerchickenItem,5
+pyramidDesertyChest,1xitem.lambbarleysoupItem@0,Lamb Barley Soup,harvestcraft:lambbarleysoupItem,5
+pyramidDesertyChest,1xitem.ovenroastedcauliflowerItem@0,Oven Roasted Cauliflower,harvestcraft:ovenroastedcauliflowerItem,5
+pyramidDesertyChest,1xitem.apricotjellysandwichItem@0,Apricot Jelly Sandwich,harvestcraft:apricotjellysandwichItem,5
+pyramidDesertyChest,1xitem.figjellysandwichItem@0,Fig Jelly Sandwich,harvestcraft:figjellysandwichItem,5
+pyramidDesertyChest,1xitem.grapefruitjellysandwichItem@0,Grapefruit Jelly Sandwich,harvestcraft:grapefruitjellysandwichItem,5
+pyramidDesertyChest,1xitem.persimmonjellysandwichItem@0,Persimmon Jelly Sandwich,harvestcraft:persimmonjellysandwichItem,5
+pyramidDesertyChest,1xitem.pistachiobakedsalmonItem@0,Pistachio Baked Salmon,harvestcraft:pistachiobakedsalmonItem,5
+pyramidDesertyChest,1xitem.baconwrappeddatesItem@0,Bacon Wrapped Dates,harvestcraft:baconwrappeddatesItem,5
+pyramidDesertyChest,1xitem.sausageinbreadItem@0,Sausage in Bread,harvestcraft:sausageinbreadItem,5
+pyramidDesertyChest,1xitem.beefwellingtonItem@0,Beef Wellington,harvestcraft:beefwellingtonItem,5
+pyramidDesertyChest,1xitem.epicbaconItem@0,Epic Bacon,harvestcraft:epicbaconItem,5
+pyramidDesertyChest,1xitem.chickengumboItem@0,Chicken Gumbo,harvestcraft:chickengumboItem,5
+pyramidDesertyChest,1xitem.generaltsochickenItem@0,General Tso's Chicken,harvestcraft:generaltsochickenItem,5
+pyramidDesertyChest,1xitem.cherrycoconutchocolatebarItem@0,Cherry Coconut Chocolate Bar,harvestcraft:cherrycoconutchocolatebarItem,5
+pyramidDesertyChest,1xitem.meatpieItem@0,Meat Pie,harvestcraft:meatpieItem,5
+pyramidDesertyChest,1xitem.chikorollItem@0,Chiko Roll,harvestcraft:chikorollItem,5
+pyramidDesertyChest,1xitem.beetburgerItem@0,Beet Burger,harvestcraft:beetburgerItem,5
+pyramidDesertyChest,1xitem.pavlovaItem@0,Pavlova,harvestcraft:pavlovaItem,5
+pyramidDesertyChest,1xitem.mcpamItem@0,McPam,harvestcraft:mcpamItem,5
+pyramidDesertyChest,1xitem.ceasarsaladItem@0,Ceasar Salad,harvestcraft:ceasarsaladItem,5
+pyramidDesertyChest,1xitem.chocolatebaconItem@0,Chocolate Bacon,harvestcraft:chocolatebaconItem,5
+pyramidDesertyChest,1xitem.lambkebabItem@0,Lamb Kebab,harvestcraft:lambkebabItem,5
+pyramidDesertyChest,1xitem.holidaycakeItem@0,Holiday Cake,harvestcraft:holidaycakeItem,5
+pyramidDesertyChest,1xitem.bangersandmashItem@0,Bangers and Mash,harvestcraft:bangersandmashItem,5
+pyramidDesertyChest,1xitem.batteredsausageItem@0,Battered Sausage,harvestcraft:batteredsausageItem,5
+pyramidDesertyChest,1xitem.chorizoItem@0,Chorizo,harvestcraft:chorizoItem,5
+pyramidDesertyChest,1xitem.meatfeastpizzaItem@0,Meat Feast Pizza,harvestcraft:meatfeastpizzaItem,5
+pyramidDesertyChest,1xitem.mincepieItem@0,Mince Pie,harvestcraft:mincepieItem,5
+pyramidDesertyChest,1xitem.onionhamburgerItem@0,Onion Hamburger,harvestcraft:onionhamburgerItem,5
+pyramidDesertyChest,1xitem.pepperoniItem@0,Pepperoni,harvestcraft:pepperoniItem,5
+pyramidDesertyChest,1xitem.pumpkincheesecakeItem@0,Pumpkin Cheesecake,harvestcraft:pumpkincheesecakeItem,5
+pyramidDesertyChest,1xitem.suaderoItem@0,Suadero,harvestcraft:suaderoItem,5
+pyramidDesertyChest,1xitem.randomtacoItem@0,Random Taco,harvestcraft:randomtacoItem,5
+pyramidJungleChest,1xitem.diamond@0,Diamond,minecraft:diamond,3
+pyramidJungleChest,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+pyramidJungleChest,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,15
+pyramidJungleChest,1xitem.emerald@0,Emerald,minecraft:emerald,2
+pyramidJungleChest,1xitem.bone@0,Bone,minecraft:bone,20
+pyramidJungleChest,1xitem.rottenFlesh@0,Rotten Flesh,minecraft:rotten_flesh,16
+pyramidJungleChest,1xitem.saddle@0,Saddle,minecraft:saddle,3
+pyramidJungleChest,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+pyramidJungleChest,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,1
+pyramidJungleChest,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+pyramidJungleChest,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+pyramidJungleChest,1xitem.ashSeeds@0,Ashenwheat Seeds,ashenwheat:ashSeeds,20
+pyramidJungleChest,1xitem.scintillaSeeds@0,Scintillawheat Seeds,ashenwheat:scintillaSeeds,10
+pyramidJungleChest,1xitem.ossidSeeds@0,Ossidroot Seeds,ashenwheat:ossidSeeds,15
+pyramidJungleChest,1xitem.thunderSeeds@0,Thundergrass Seeds,ashenwheat:thunderSeeds,15
+pyramidJungleChest,1xitem.tconstruct.canister@1,Miniature Red Heart,TConstruct:heartCanister,10
+pyramidJungleChest,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+pyramidJungleChest,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,8
+pyramidJungleChest,1xitem.loadedbakedpotatoItem@0,Loaded Baked Potato,harvestcraft:loadedbakedpotatoItem,5
+pyramidJungleChest,1xitem.chickenpotpieItem@0,Chicken Pot Pie,harvestcraft:chickenpotpieItem,5
+pyramidJungleChest,1xitem.baconcheeseburgerItem@0,Bacon Cheeseburger,harvestcraft:baconcheeseburgerItem,5
+pyramidJungleChest,1xitem.potroastItem@0,Pot Roast,harvestcraft:potroastItem,5
+pyramidJungleChest,1xitem.spagettiandmeatballsItem@0,Spagetti and Meatballs,harvestcraft:spagettiandmeatballsItem,5
+pyramidJungleChest,1xitem.pizzaItem@0,Pizza,harvestcraft:pizzaItem,5
+pyramidJungleChest,1xitem.bltItem@0,BLT,harvestcraft:bltItem,5
+pyramidJungleChest,1xitem.leafychickensandwichItem@0,Leafy Chicken Sandwich,harvestcraft:leafychickensandwichItem,5
+pyramidJungleChest,1xitem.deluxecheeseburgerItem@0,Deluxe Cheeseburger,harvestcraft:deluxecheeseburgerItem,5
+pyramidJungleChest,1xitem.delightedmealItem@0,Delighted Meal,harvestcraft:delightedmealItem,5
+pyramidJungleChest,1xitem.onionsoupItem@0,Onion Soup,harvestcraft:onionsoupItem,5
+pyramidJungleChest,1xitem.hashItem@0,Hash,harvestcraft:hashItem,5
+pyramidJungleChest,1xitem.heartybreakfastItem@0,Hearty Breakfast,harvestcraft:heartybreakfastItem,5
+pyramidJungleChest,1xitem.tacoItem@0,Taco,harvestcraft:tacoItem,5
+pyramidJungleChest,1xitem.trailmixItem@0,Trail Mix,harvestcraft:trailmixItem,5
+pyramidJungleChest,1xitem.pbandjItem@0,PB&J,harvestcraft:pbandjItem,5
+pyramidJungleChest,1xitem.cucumbersaladItem@0,Cucumber Salad,harvestcraft:cucumbersaladItem,5
+pyramidJungleChest,1xitem.friedriceItem@0,Fried Rice,harvestcraft:friedriceItem,5
+pyramidJungleChest,1xitem.mushroomrisottoItem@0,Mushroom Risotto,harvestcraft:mushroomrisottoItem,5
+pyramidJungleChest,1xitem.curryItem@0,Curry Rice,harvestcraft:curryItem,5
+pyramidJungleChest,1xitem.rainbowcurryItem@0,Rainbow Curry,harvestcraft:rainbowcurryItem,5
+pyramidJungleChest,1xitem.bakedbeansItem@0,Baked Beans,harvestcraft:bakedbeansItem,5
+pyramidJungleChest,1xitem.beansandriceItem@0,Beans and Rice,harvestcraft:beansandriceItem,5
+pyramidJungleChest,1xitem.chiliItem@0,Chili,harvestcraft:chiliItem,5
+pyramidJungleChest,1xitem.veggiestirfryItem@0,Veggie Stirfry,harvestcraft:veggiestirfryItem,5
+pyramidJungleChest,1xitem.supremepizzaItem@0,Supreme Pizza,harvestcraft:supremepizzaItem,5
+pyramidJungleChest,1xitem.extremechiliItem@0,Extreme Chili,harvestcraft:extremechiliItem,5
+pyramidJungleChest,1xitem.lemonmeringueItem@0,Lemon Meringue,harvestcraft:lemonmeringueItem,5
+pyramidJungleChest,1xitem.cheesecakeItem@0,Cheesecake,harvestcraft:cheesecakeItem,5
+pyramidJungleChest,1xitem.cherrycheesecakeItem@0,Cherry Cheesecake,harvestcraft:cherrycheesecakeItem,5
+pyramidJungleChest,1xitem.stuffedeggplantItem@0,Stuffed Eggplant,harvestcraft:stuffedeggplantItem,5
+pyramidJungleChest,1xitem.eggplantparmItem@0,Eggplant Parm,harvestcraft:eggplantparmItem,5
+pyramidJungleChest,1xitem.coffeeconlecheItem@0,Coffee con Leche,harvestcraft:coffeeconlecheItem,5
+pyramidJungleChest,1xitem.mochaicecreamItem@0,Mocha Ice Cream,harvestcraft:mochaicecreamItem,5
+pyramidJungleChest,1xitem.beetsaladItem@0,Beet Salad,harvestcraft:beetsaladItem,5
+pyramidJungleChest,1xitem.bakedbeetsItem@0,Baked Beets,harvestcraft:bakedbeetsItem,5
+pyramidJungleChest,1xitem.creamedbroccolisoupItem@0,Creamed Broccoli Soup,harvestcraft:creamedbroccolisoupItem,5
+pyramidJungleChest,1xitem.sweetpotatopieItem@0,Sweet Potato Pie,harvestcraft:sweetpotatopieItem,5
+pyramidJungleChest,1xitem.splitpeasoupItem@0,Split Pea Soup,harvestcraft:splitpeasoupItem,5
+pyramidJungleChest,1xitem.pineappleupsidedowncakeItem@0,Pineapple Upsidedown Cake,harvestcraft:pineappleupsidedowncakeItem,5
+pyramidJungleChest,1xitem.pineapplehamItem@0,Pineapple Ham,harvestcraft:pineapplehamItem,5
+pyramidJungleChest,1xitem.roastedrootveggiemedleyItem@0,Roasted Root Veggie Medley,harvestcraft:roastedrootveggiemedleyItem,5
+pyramidJungleChest,1xitem.gingerbreadItem@0,Ginger Bread,harvestcraft:gingerbreadItem,5
+pyramidJungleChest,1xitem.softpretzelandmustardItem@0,Soft Pretzel and Mustard,harvestcraft:softpretzelandmustardItem,5
+pyramidJungleChest,1xitem.spicymustardporkItem@0,Spicy Mustard Pork,harvestcraft:spicymustardporkItem,5
+pyramidJungleChest,1xitem.spicygreensItem@0,Spicy Greens,harvestcraft:spicygreensItem,5
+pyramidJungleChest,1xitem.garlicmashedpotatoesItem@0,Garlic Mashed Potatoes,harvestcraft:garlicmashedpotatoesItem,5
+pyramidJungleChest,1xitem.garlicchickenItem@0,Garlic Chicken,harvestcraft:garlicchickenItem,5
+pyramidJungleChest,1xitem.summersquashwithradishItem@0,Summer Squash with Radish,harvestcraft:summersquashwithradishItem,5
+pyramidJungleChest,1xitem.chickencelerycasseroleItem@0,Chicken Celery Casserole,harvestcraft:chickencelerycasseroleItem,5
+pyramidJungleChest,1xitem.zucchinifriesItem@0,Zucchini Fries,harvestcraft:zucchinifriesItem,5
+pyramidJungleChest,1xitem.zestyzucchiniItem@0,Zesty Zucchini,harvestcraft:zestyzucchiniItem,5
+pyramidJungleChest,1xitem.zucchinibakeItem@0,Zucchini Bake,harvestcraft:zucchinibakeItem,5
+pyramidJungleChest,1xitem.walnutraisinbreadItem@0,Walnut Raisin Bread,harvestcraft:walnutraisinbreadItem,5
+pyramidJungleChest,1xitem.brownieItem@0,Brownie,harvestcraft:brownieItem,5
+pyramidJungleChest,1xitem.guacamoleItem@0,Guacamole,harvestcraft:guacamoleItem,5
+pyramidJungleChest,1xitem.creamofavocadosoupItem@0,Cream of Avocado Soup,harvestcraft:creamofavocadosoupItem,5
+pyramidJungleChest,1xitem.avocadoburritoItem@0,Avocado Burrito,harvestcraft:avocadoburritoItem,5
+pyramidJungleChest,1xitem.bananasplitItem@0,Banana Split,harvestcraft:bananasplitItem,5
+pyramidJungleChest,1xitem.chickencurryItem@0,Chicken Curry,harvestcraft:chickencurryItem,5
+pyramidJungleChest,1xitem.coconutshrimpItem@0,Coconut Shrimp,harvestcraft:coconutshrimpItem,5
+pyramidJungleChest,1xitem.orangechickenItem@0,Orange Chicken,harvestcraft:orangechickenItem,5
+pyramidJungleChest,1xitem.frenchtoastItem@0,French Toast,harvestcraft:frenchtoastItem,5
+pyramidJungleChest,1xitem.friedchickenItem@0,Fried Chicken,harvestcraft:friedchickenItem,5
+pyramidJungleChest,1xitem.footlongItem@0,Footlong,harvestcraft:footlongItem,5
+pyramidJungleChest,1xitem.sunflowerwheatrollsItem@0,Sunflower Wheat Rolls,harvestcraft:sunflowerwheatrollsItem,5
+pyramidJungleChest,1xitem.sunflowerbroccolisaladItem@0,Sunflower Broccoli Salad,harvestcraft:sunflowerbroccolisaladItem,5
+pyramidJungleChest,1xitem.baklavaItem@0,Baklava,harvestcraft:baklavaItem,5
+pyramidJungleChest,1xitem.baconmushroomburgerItem@0,Bacon Mushroom Burger,harvestcraft:baconmushroomburgerItem,5
+pyramidJungleChest,1xitem.mixedsaladItem@0,Mixed Salad,harvestcraft:mixedsaladItem,5
+pyramidJungleChest,1xitem.shepardspieItem@0,Shepard's Pie,harvestcraft:shepardspieItem,5
+pyramidJungleChest,1xitem.applejellysandwichItem@0,Apple Jelly Sandwich,harvestcraft:applejellysandwichItem,5
+pyramidJungleChest,1xitem.blackberryjellysandwichItem@0,Blackberry Jelly Sandwich,harvestcraft:blackberryjellysandwichItem,5
+pyramidJungleChest,1xitem.blueberryjellysandwichItem@0,Blueberry Jelly Sandwich,harvestcraft:blueberryjellysandwichItem,5
+pyramidJungleChest,1xitem.cherryjellysandwichItem@0,Cherry Jelly Sandwich,harvestcraft:cherryjellysandwichItem,5
+pyramidJungleChest,1xitem.cranberryjellysandwichItem@0,Cranberry Jelly Sandwich,harvestcraft:cranberryjellysandwichItem,5
+pyramidJungleChest,1xitem.kiwijellysandwichItem@0,Kiwi Jelly Sandwich,harvestcraft:kiwijellysandwichItem,5
+pyramidJungleChest,1xitem.lemonjellysandwichItem@0,Lemon Jelly Sandwich,harvestcraft:lemonjellysandwichItem,5
+pyramidJungleChest,1xitem.limejellysandwichItem@0,Lime Jelly Sandwich,harvestcraft:limejellysandwichItem,5
+pyramidJungleChest,1xitem.mangojellysandwichItem@0,Mango Jelly Sandwich,harvestcraft:mangojellysandwichItem,5
+pyramidJungleChest,1xitem.orangejellysandwichItem@0,Orange Jelly Sandwich,harvestcraft:orangejellysandwichItem,5
+pyramidJungleChest,1xitem.papayajellysandwichItem@0,Papaya Jelly Sandwich,harvestcraft:papayajellysandwichItem,5
+pyramidJungleChest,1xitem.peachjellysandwichItem@0,Peach Jelly Sandwich,harvestcraft:peachjellysandwichItem,5
+pyramidJungleChest,1xitem.pomegranatejellysandwichItem@0,Pomegranate Jelly Sandwich,harvestcraft:pomegranatejellysandwichItem,5
+pyramidJungleChest,1xitem.raspberryjellysandwichItem@0,Raspberry Jelly Sandwich,harvestcraft:raspberryjellysandwichItem,5
+pyramidJungleChest,1xitem.starfruitjellysandwichItem@0,Starfruit Jelly Sandwich,harvestcraft:starfruitjellysandwichItem,5
+pyramidJungleChest,1xitem.strawberryjellysandwichItem@0,Strawberry Jelly Sandwich,harvestcraft:strawberryjellysandwichItem,5
+pyramidJungleChest,1xitem.watermelonjellysandwichItem@0,Watermelon Jelly Sandwich,harvestcraft:watermelonjellysandwichItem,5
+pyramidJungleChest,1xitem.mintchocolatechipicemcreamItem@0,Mint Chocolate Chip Ice Cream,harvestcraft:mintchocolatechipicemcreamItem,5
+pyramidJungleChest,1xitem.gingerchickenItem@0,Ginger Chicken,harvestcraft:gingerchickenItem,5
+pyramidJungleChest,1xitem.lambbarleysoupItem@0,Lamb Barley Soup,harvestcraft:lambbarleysoupItem,5
+pyramidJungleChest,1xitem.ovenroastedcauliflowerItem@0,Oven Roasted Cauliflower,harvestcraft:ovenroastedcauliflowerItem,5
+pyramidJungleChest,1xitem.apricotjellysandwichItem@0,Apricot Jelly Sandwich,harvestcraft:apricotjellysandwichItem,5
+pyramidJungleChest,1xitem.figjellysandwichItem@0,Fig Jelly Sandwich,harvestcraft:figjellysandwichItem,5
+pyramidJungleChest,1xitem.grapefruitjellysandwichItem@0,Grapefruit Jelly Sandwich,harvestcraft:grapefruitjellysandwichItem,5
+pyramidJungleChest,1xitem.persimmonjellysandwichItem@0,Persimmon Jelly Sandwich,harvestcraft:persimmonjellysandwichItem,5
+pyramidJungleChest,1xitem.pistachiobakedsalmonItem@0,Pistachio Baked Salmon,harvestcraft:pistachiobakedsalmonItem,5
+pyramidJungleChest,1xitem.baconwrappeddatesItem@0,Bacon Wrapped Dates,harvestcraft:baconwrappeddatesItem,5
+pyramidJungleChest,1xitem.sausageinbreadItem@0,Sausage in Bread,harvestcraft:sausageinbreadItem,5
+pyramidJungleChest,1xitem.beefwellingtonItem@0,Beef Wellington,harvestcraft:beefwellingtonItem,5
+pyramidJungleChest,1xitem.epicbaconItem@0,Epic Bacon,harvestcraft:epicbaconItem,5
+pyramidJungleChest,1xitem.chickengumboItem@0,Chicken Gumbo,harvestcraft:chickengumboItem,5
+pyramidJungleChest,1xitem.generaltsochickenItem@0,General Tso's Chicken,harvestcraft:generaltsochickenItem,5
+pyramidJungleChest,1xitem.cherrycoconutchocolatebarItem@0,Cherry Coconut Chocolate Bar,harvestcraft:cherrycoconutchocolatebarItem,5
+pyramidJungleChest,1xitem.meatpieItem@0,Meat Pie,harvestcraft:meatpieItem,5
+pyramidJungleChest,1xitem.chikorollItem@0,Chiko Roll,harvestcraft:chikorollItem,5
+pyramidJungleChest,1xitem.beetburgerItem@0,Beet Burger,harvestcraft:beetburgerItem,5
+pyramidJungleChest,1xitem.pavlovaItem@0,Pavlova,harvestcraft:pavlovaItem,5
+pyramidJungleChest,1xitem.mcpamItem@0,McPam,harvestcraft:mcpamItem,5
+pyramidJungleChest,1xitem.ceasarsaladItem@0,Ceasar Salad,harvestcraft:ceasarsaladItem,5
+pyramidJungleChest,1xitem.chocolatebaconItem@0,Chocolate Bacon,harvestcraft:chocolatebaconItem,5
+pyramidJungleChest,1xitem.lambkebabItem@0,Lamb Kebab,harvestcraft:lambkebabItem,5
+pyramidJungleChest,1xitem.holidaycakeItem@0,Holiday Cake,harvestcraft:holidaycakeItem,5
+pyramidJungleChest,1xitem.bangersandmashItem@0,Bangers and Mash,harvestcraft:bangersandmashItem,5
+pyramidJungleChest,1xitem.batteredsausageItem@0,Battered Sausage,harvestcraft:batteredsausageItem,5
+pyramidJungleChest,1xitem.chorizoItem@0,Chorizo,harvestcraft:chorizoItem,5
+pyramidJungleChest,1xitem.meatfeastpizzaItem@0,Meat Feast Pizza,harvestcraft:meatfeastpizzaItem,5
+pyramidJungleChest,1xitem.mincepieItem@0,Mince Pie,harvestcraft:mincepieItem,5
+pyramidJungleChest,1xitem.onionhamburgerItem@0,Onion Hamburger,harvestcraft:onionhamburgerItem,5
+pyramidJungleChest,1xitem.pepperoniItem@0,Pepperoni,harvestcraft:pepperoniItem,5
+pyramidJungleChest,1xitem.pumpkincheesecakeItem@0,Pumpkin Cheesecake,harvestcraft:pumpkincheesecakeItem,5
+pyramidJungleChest,1xitem.suaderoItem@0,Suadero,harvestcraft:suaderoItem,5
+pyramidJungleChest,1xitem.randomtacoItem@0,Random Taco,harvestcraft:randomtacoItem,5
+pyramidJungleDispenser,1xitem.arrow@0,Arrow,minecraft:arrow,30
+strongholdCorridor,1xitem.enderPearl@0,Ender Pearl,minecraft:ender_pearl,10
+strongholdCorridor,1xitem.diamond@0,Diamond,minecraft:diamond,3
+strongholdCorridor,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+strongholdCorridor,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,5
+strongholdCorridor,1xitem.redstone@0,Redstone,minecraft:redstone,5
+strongholdCorridor,1xitem.bread@0,Bread,minecraft:bread,15
+strongholdCorridor,1xitem.apple@0,Apple,minecraft:apple,15
+strongholdCorridor,1xitem.pickaxeIron@0,Iron Pickaxe,minecraft:iron_pickaxe,5
+strongholdCorridor,1xitem.swordIron@0,Iron Sword,minecraft:iron_sword,5
+strongholdCorridor,1xitem.chestplateIron@0,Iron Chestplate,minecraft:iron_chestplate,5
+strongholdCorridor,1xitem.helmetIron@0,Iron Helmet,minecraft:iron_helmet,5
+strongholdCorridor,1xitem.leggingsIron@0,Iron Leggings,minecraft:iron_leggings,5
+strongholdCorridor,1xitem.bootsIron@0,Iron Boots,minecraft:iron_boots,5
+strongholdCorridor,1xitem.appleGold@0,Golden Apple,minecraft:golden_apple,1
+strongholdCorridor,1xitem.saddle@0,Saddle,minecraft:saddle,1
+strongholdCorridor,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+strongholdCorridor,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,1
+strongholdCorridor,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+strongholdCorridor,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+strongholdCorridor,1xitem.grc.grapes@0,Grapes,Growthcraft|Grapes:grc.grapes,10
+strongholdCorridor,1xitem.grc.hops@0,Hops,Growthcraft|Hops:grc.hops,10
+strongholdCorridor,1xitem.item.shaftcraft@9,HSLA Steel Scrap,RotaryCraft:rotarycraft_item_shaftcraft,20
+strongholdCorridor,1xitem.item.shaftcraft@10,Iron Scrap,RotaryCraft:rotarycraft_item_shaftcraft,20
+strongholdCorridor,1xitem.item.compacts@2,Lonsdaleite,RotaryCraft:rotarycraft_item_compacts,10
+strongholdCorridor,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,2
+strongholdCrossing,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+strongholdCrossing,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,5
+strongholdCrossing,1xitem.redstone@0,Redstone,minecraft:redstone,5
+strongholdCrossing,1xitem.coal@0,Coal,minecraft:coal,10
+strongholdCrossing,1xitem.bread@0,Bread,minecraft:bread,15
+strongholdCrossing,1xitem.apple@0,Apple,minecraft:apple,15
+strongholdCrossing,1xitem.pickaxeIron@0,Iron Pickaxe,minecraft:iron_pickaxe,1
+strongholdCrossing,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,1
+strongholdCrossing,1xitem.grc.grapes@0,Grapes,Growthcraft|Grapes:grc.grapes,10
+strongholdCrossing,1xitem.grc.hops@0,Hops,Growthcraft|Hops:grc.hops,10
+strongholdCrossing,1xitem.item.shaftcraft@9,HSLA Steel Scrap,RotaryCraft:rotarycraft_item_shaftcraft,20
+strongholdCrossing,1xitem.item.shaftcraft@10,Iron Scrap,RotaryCraft:rotarycraft_item_shaftcraft,20
+strongholdCrossing,1xitem.item.compacts@2,Lonsdaleite,RotaryCraft:rotarycraft_item_compacts,10
+strongholdCrossing,1xitem.extrautils:divisionSigil@0,Division Sigil,ExtraUtilities:divisionSigil,2
+strongholdLibrary,1xitem.book@0,Book,minecraft:book,20
+strongholdLibrary,1xitem.paper@0,Paper,minecraft:paper,20
+strongholdLibrary,1xitem.emptyMap@0,Empty Map,minecraft:map,1
+strongholdLibrary,1xitem.compass@0,Compass,minecraft:compass,1
+strongholdLibrary,1xitem.enchantedBook@0,Enchanted Book,minecraft:enchanted_book,2
+strongholdLibrary,1xitem.item.meter@0,Angular Transducer,RotaryCraft:rotarycraft_item_meter,2
+strongholdLibrary,1xitem.InfiTool.Broadsword@0,Broadsword,TConstruct:broadsword,2
+strongholdLibrary,1xitem.iguana.tcon.wearable@3,Bat Hat,IguanaTweaksTConstruct:wearableBucket,1
+villageBlacksmith,1xitem.diamond@0,Diamond,minecraft:diamond,3
+villageBlacksmith,1xitem.ingotIron@0,Iron Ingot,minecraft:iron_ingot,10
+villageBlacksmith,1xitem.ingotGold@0,Gold Ingot,minecraft:gold_ingot,5
+villageBlacksmith,1xitem.bread@0,Bread,minecraft:bread,15
+villageBlacksmith,1xitem.apple@0,Apple,minecraft:apple,15
+villageBlacksmith,1xitem.pickaxeIron@0,Iron Pickaxe,minecraft:iron_pickaxe,5
+villageBlacksmith,1xitem.swordIron@0,Iron Sword,minecraft:iron_sword,5
+villageBlacksmith,1xitem.chestplateIron@0,Iron Chestplate,minecraft:iron_chestplate,5
+villageBlacksmith,1xitem.helmetIron@0,Iron Helmet,minecraft:iron_helmet,5
+villageBlacksmith,1xitem.leggingsIron@0,Iron Leggings,minecraft:iron_leggings,5
+villageBlacksmith,1xitem.bootsIron@0,Iron Boots,minecraft:iron_boots,5
+villageBlacksmith,1xtile.obsidian@0,Obsidian,minecraft:obsidian,5
+villageBlacksmith,1xtile.sapling@0,Oak Sapling,minecraft:sapling,5
+villageBlacksmith,1xitem.saddle@0,Saddle,minecraft:saddle,3
+villageBlacksmith,1xitem.horsearmormetal@0,Iron Horse Armor,minecraft:iron_horse_armor,1
+villageBlacksmith,1xitem.horsearmorgold@0,Gold Horse Armor,minecraft:golden_horse_armor,1
+villageBlacksmith,1xitem.horsearmordiamond@0,Diamond Horse Armor,minecraft:diamond_horse_armor,1
+villageBlacksmith,1xitem.ashSeeds@0,Ashenwheat Seeds,ashenwheat:ashSeeds,10
+villageBlacksmith,1xitem.scintillaSeeds@0,Scintillawheat Seeds,ashenwheat:scintillaSeeds,2
+villageBlacksmith,1xitem.ossidSeeds@0,Ossidroot Seeds,ashenwheat:ossidSeeds,5
+villageBlacksmith,1xitem.thunderSeeds@0,Thundergrass Seeds,ashenwheat:thunderSeeds,5
+villageBlacksmith,1xitem.ashWheatSheaf@0,Ashenwheat Sheaf,ashenwheat:ashWheatSheaf,5
+villageBlacksmith,1xitem.scintillaWheatSheaf@0,Scintillawheat Sheaf,ashenwheat:scintillaWheatSheaf,2
+villageBlacksmith,1xitem.ashCookie@0,Ashenwheat Cookie,ashenwheat:ashCookie,4
+villageBlacksmith,1xitem.scintillaCookie@0,Scintillawheat Cookie,ashenwheat:scintillaCookie,2
+villageBlacksmith,1xitem.item.shaftcraft@1,HSLA Steel Ingot,RotaryCraft:rotarycraft_item_shaftcraft,10
+villageBlacksmith,1xitem.item.shaftcraft@9,HSLA Steel Scrap,RotaryCraft:rotarycraft_item_shaftcraft,15
+villageBlacksmith,1xitem.item.shaftcraft@10,Iron Scrap,RotaryCraft:rotarycraft_item_shaftcraft,30
+villageBlacksmith,1xitem.iguana.tcon.wearable@0,Holey Bucket,IguanaTweaksTConstruct:wearableBucket,1

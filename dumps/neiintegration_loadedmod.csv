@@ -1,0 +1,78 @@
+ID,Name,Version,Custom Container,Disableable,Dependencies
+mcp,Minecraft Coder Pack,9.05,true,YES,[]
+FML,Forge Mod Loader,7.10.85.1291,true,NEVER,[]
+Forge,Minecraft Forge,10.13.2.1291,true,NEVER,[]
+CodeChickenCore,CodeChicken Core,1.0.4.35,true,NEVER,[]
+PacketLogger,PacketLogger,0.0.1,true,NEVER,[]
+NotEnoughItems,Not Enough Items,1.0.4.90,true,NEVER,"[CodeChickenCore@[1.0.4,)]"
+OpenModsCore,OpenModsCore,0.7,true,NEVER,[]
+<CoFH ASM>,CoFH ASM Data Initialization,000,true,NEVER,[]
+<DragonAPI ASM>,DragonAPI ASM Data Initialization,0,true,NEVER,[]
+ArchimedesShipsPlus,Archimedes' Ships Plus,1.7.10-V1.8.0,false,RESTART,[]
+AppleCore,AppleCore,1.1.0,false,DEPENDENCIES,[]
+ashenwheat,Ashenwheat,1.7.10-1.2.0,false,RESTART,[]
+Backpack,Backpack,2.0.1,false,RESTART,[]
+BiblioCraft,BiblioCraft,1.10.3,false,RESTART,[]
+ExtrabiomesXL,ExtrabiomesXL,3.16.0,false,RESTART,[]
+BiblioWoodsEBXL,BiblioWoods ExtraBiomesXL Edition,1.4,false,RESTART,"[BiblioCraft, ExtrabiomesXL]"
+Highlands,Highlands,2.2.3,false,RESTART,[]
+BiblioWoodsHighlands,BiblioWoods Highlands Edition,1.4,false,RESTART,"[BiblioCraft, Highlands]"
+Mantle,Mantle,1.7.10-0.3.2.jenkins184,false,DEPENDENCIES,"[Forge@[10.13,)]"
+Natura,Natura,2.2.0,false,RESTART,[Mantle]
+BiblioWoodsNatura,BiblioWoods Natura Edition,1.5,false,RESTART,"[BiblioCraft, Natura]"
+CarpentersBlocks,Carpenter's Blocks,3.3.6,false,RESTART,"[Forge@[10.13.0.1180,)]"
+ChickenChunks,ChickenChunks,1.3.4.19,false,RESTART,"[CodeChickenCore@[1.0.3,)]"
+chisel,Chisel 2,2.3.7.34,false,RESTART,"[ForgeMultipart, Thaumcraft, appliedenergistics2, Railcraft, AWWayofTime, TwilightForest]"
+climatecontrol,Climate Control,0.4,false,RESTART,[]
+CoFHCore,CoFH Core,1.7.10R3.0.0RC7,false,DEPENDENCIES,"[FML@[7.10.0.1217,7.11), Forge@[10.13.1.1217,10.14)]"
+ThermalFoundation,Thermal Foundation,1.7.10R1.0.0RC7,false,RESTART,"[CoFHCore@[1.7.10R3.0.0RC7,)]"
+Waila,Waila,1.5.10,false,RESTART,"[NotEnoughItems@[1.0.4.0,)]"
+TConstruct,Tinkers' Construct,1.7.10-1.8.3.build919,false,DEPENDENCIES,"[Forge@[10.13.2.1291,11.14), Mantle@[1.7.10-0.3.2,), MineFactoryReloaded@[1.7.10R2.8.0RC7,), NotEnoughItems, Waila, ThermalExpansion@[1.7.10R4.0.0RC2,), ThermalFoundation@[1.7.10R1.0.0RC3,)]"
+DragonAPI,DragonAPI,1.0,false,DEPENDENCIES,"[Forge@[10.13.0.1291,), BuildCraft|Energy, IC2, ThermalExpansion, Thaumcraft, powersuits, GalacticCraft, Mystcraft, UniversalElectricity, Forestry, MagicBees, BinnieCore, Natura, TConstruct, ProjRed|Core, bluepower, Waila]"
+MoCreatures,DrZhark's Mo'Creatures Mod,6.3.1,false,RESTART,[]
+RotaryCraft,RotaryCraft,Gamma,false,DEPENDENCIES,[DragonAPI]
+ElectriCraft,ElectriCraft,beta,false,RESTART,"[DragonAPI, RotaryCraft]"
+MetallurgyCore,Metallurgy Core,4.0.4,false,DEPENDENCIES,[]
+Metallurgy,Metallurgy 4,4.0.6,false,RESTART,"[MetallurgyCore@[4.0.4,], Botania, TConstruct]"
+ExtraTiC,ExtraTiC,0.8.4,false,RESTART,"[TConstruct, Metallurgy@[4.0.4,], Natura, Mekanisum, AppliedEnergistics, BiomesOPlenty,TSteelworks]"
+ExtraUtilities,Extra Utilities,1.2.3,false,RESTART,"[Forge@[10.13.0.1187,), ForgeMultipart, Baubles, ThermalFoundation]"
+FastCraft,FastCraft,1.21,false,RESTART,[]
+ganyssurface,Gany's Surface,1.10.0,false,RESTART,"[Forge@[10.13.2.1291,)]"
+GardenCore,Garden Core,1.7.10-1.6.1,false,DEPENDENCIES,[]
+GardenContainers,Garden Containers,1.7.10-1.6.1,false,RESTART,[GardenCore]
+GardenStuff,Garden Stuff,1.7.10-1.6.1,false,RESTART,[Thaumcraft]
+GardenTrees,Garden Trees,1.7.10-1.6.1,false,RESTART,[GardenCore]
+Growthcraft,Growthcraft,2.1.0a,false,DEPENDENCIES,[]
+Growthcraft|Cellar,Growthcraft Cellar,2.1.0a,false,DEPENDENCIES,[Growthcraft]
+Growthcraft|Apples,Growthcraft Apples,2.1.0,false,RESTART,"[Growthcraft, Growthcraft|Cellar]"
+Growthcraft|Bamboo,Growthcraft Bamboo,2.1.0,false,RESTART,[Growthcraft]
+Growthcraft|Bees,Growthcraft Bees,2.1.0,false,RESTART,"[Growthcraft, Growthcraft|Cellar]"
+Growthcraft|Fishtrap,Growthcraft Fishtrap,2.1.0a,false,RESTART,[Growthcraft]
+Growthcraft|Grapes,Growthcraft Grapes,2.1.0,false,RESTART,"[Growthcraft, Growthcraft|Cellar]"
+Growthcraft|Hops,Growthcraft Hops,2.1.0,false,RESTART,"[Growthcraft, Growthcraft|Cellar]"
+Growthcraft|Rice,Growthcraft Rice,2.1.0a,false,RESTART,"[Growthcraft, Growthcraft|Cellar]"
+HelpFixer,HelpFixer,1.0.7,false,RESTART,[]
+IronChest,Iron Chest,6.0.62.742,false,RESTART,"[Forge@[10.10,), FML@[7.2,)]"
+JABBA,JABBA,1.2.1,false,RESTART,"[Waila, NotEnoughItems]"
+llor,Light Level Overlay Reloaded,1.0.2,false,RESTART,[]
+MineTweaker3,MineTweaker 3,3.0.9B,false,DEPENDENCIES,[]
+modtweaker2,Mod Tweaker 2,0.7,false,RESTART,[MineTweaker3]
+neiintegration,NEI Integration,1.0.8,false,RESTART,[]
+notenoughkeys,NotEnoughKEys,@MOD_VERSION@,false,RESTART,[]
+OpenMods,OpenMods,0.7,false,DEPENDENCIES,[OpenModsCore]
+OpenBlocks,OpenBlocks,1.4,false,RESTART,"[OpenMods@[0.7,0.7]]"
+desertcraft,Pam's DesertCraft,1.7.2b,false,RESTART,[]
+harvestcraft,Pam's HarvestCraft,1.7.10g,false,RESTART,[]
+ReactorCraft,ReactorCraft,beta,false,RESTART,"[DragonAPI, RotaryCraft]"
+AS_Ruins,Ruins Spawning System,14.7,false,RESTART,[ExtraBiomes]
+sinhikabark,Sinhika's Bark,1.7.2-0.03,false,RESTART,[]
+SpiceOfLife,The Spice of Life,1.2.3,false,RESTART,[AppleCore]
+StorageDrawers,Storage Drawers,1.7.10-1.3.9,false,RESTART,[waila]
+TiCTooltips,TiC Tooltips,1.2.3,false,RESTART,"[TConstruct@[1.7.10-1.8,), ExtraTiC, TSteelworks, Mariculture]"
+UndergroundBiomes,Underground Biomes Constructs,0.7,false,RESTART,[]
+AS_UpdateCheck,AtomicStryker Update Check Mod,1.1.6,false,RESTART,[]
+VersionChecker,Version Checker,1.1.8,false,RESTART,[]
+WailaHarvestability,Waila Harvestability,1.1.2,false,RESTART,"[TConstruct, ExtraTiC, TSteelworks, Mariculture]"
+HungerOverhaul,Hunger Overhaul,1.7.10-beta.5.jenkins47,false,RESTART,"[Forge@[10.13,), AppleCore, TConstruct, harvestcraft, temperateplants, randomplants, weeeflowers, Natura, IC2, *]"
+IguanaTweaksTConstruct,Iguana Tinker Tweaks,1.7.10-2.1.4.132,false,RESTART,"[TConstruct@[1.7.10-1.8.3,), ForgeMultipart@[1.1.1.321,), *]"
+JustAnotherSpawner,Just Another Spawner,0.16.18,false,RESTART,[*]
