@@ -1,11 +1,10 @@
 
-Loading excluded list from: C:\Users\cyhiggin\AppData\Roaming\.minecraft\HighTechnica\saves\CC-test\DIM-112
+Loading excluded list from: C:\Users\cyhiggin\AppData\Roaming\.minecraft\HighTechnica\saves\CC-test2\MoCWyvernLair
 No exclusions found for this world.
 
-Loading options from: C:\Users\cyhiggin\AppData\Roaming\.minecraft\HighTechnica\saves\CC-test\DIM-112
-tries_per_chunk_normal = 6
-chance_to_spawn_normal = 10.0
-templateInstancesMinDistance = 256.0
-anyRuinsMinDistance = 64.0
-Ruins mod loaded successfully for world C:\Users\cyhiggin\AppData\Roaming\.minecraft\HighTechnica\saves\CC-test\DIM-112, template files: 179
-plate files: 179
+Loading options from: C:\Users\cyhiggin\AppData\Roaming\.minecraft\HighTechnica\saves\CC-test2\MoCWyvernLair
+tries_per_chunk_normal = 2
+chance_to_spawn_normal = 4.0
+templateInstancesMinDistance = 2048.0
+anyRuinsMinDistance = 128.0
+Ruins mod loaded successfully for world C:\Users\cyhiggin\AppData\Roaming\.minecraft\HighTechnica\saves\CC-test2\MoCWyvernLair, template files: 445
