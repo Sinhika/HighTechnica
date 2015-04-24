@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:1
 clouds:true
-resourcePacks:[]
+resourcePacks:["Faithful.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
