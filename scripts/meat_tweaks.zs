@@ -16,6 +16,7 @@
 
 # new raw turtle entry
 <ore:listAllturtleraw>.add(<MoCreatures:turtleraw>);
+<ore:listAllturtleraw>.add(<harvestcraft:turtlerawItem>);
 
 # replace with HC-style turtle soup recipes - pot, stock, meat
 # TODO - may require a bowl as input if eating soup yields a bowl.

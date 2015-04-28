@@ -12,7 +12,7 @@ advancedOpengl:false
 maxFps:260
 fboEnable:true
 difficulty:2
-fancyGraphics:false
+fancyGraphics:true
 ao:1
 clouds:true
 resourcePacks:["Faithful.zip"]

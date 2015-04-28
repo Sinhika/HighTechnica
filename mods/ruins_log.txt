@@ -7,4 +7,4 @@ tries_per_chunk_normal = 2
 chance_to_spawn_normal = 4.0
 templateInstancesMinDistance = 2048.0
 anyRuinsMinDistance = 128.0
-Ruins mod loaded successfully for world /home/cyhiggin/.minecraft/HighTechnica/saves/HighTechnica1/DIM-112, template files: 445
+Ruins mod loaded successfully for world /home/cyhiggin/.minecraft/HighTechnica/saves/HighTechnica1/DIM-112, template files: 447
