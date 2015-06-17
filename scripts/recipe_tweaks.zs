@@ -11,8 +11,8 @@ recipes.addShaped(<Backpack:backpack:3>,
 
 # allow peaceful-only watering cans to be converted to regular ones.
 #
-recipes.addShapeless(<ExtraUtilities:watering_can:1>, 
-			  [<ExtraUtilities:watering_can:0>, <minecraft:dye:15>]);
+#recipes.addShapeless(<ExtraUtilities:watering_can:1>, 
+#			  [<ExtraUtilities:watering_can:0>, <minecraft:dye:15>]);
 
 # allow quicksand to be turned into somewhat more useful regular sand.
 #

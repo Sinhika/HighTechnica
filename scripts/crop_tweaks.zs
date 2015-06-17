@@ -45,12 +45,7 @@ vanilla.seeds.removeSeed(<harvestcraft:cottonseedItem>);
 <ore:cropCotton>.add(<Natura:barleyFood:3>);
 
 # RICE
-# remove HarvestCraft rice seeds from tall grass drop
-# (they have already been configured to drop from tall grass instead
-#  gardens, this should remove them from appearing in-game at all.)
-#
-vanilla.seeds.removeSeed(<harvestcraft:riceseedItem>);
-# GrowthCraft stuff is already ore-dictified.
+# allow HarvestCraft rice since we removed GrowthCraft.
 
 # APPLES
 
