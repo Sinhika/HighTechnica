@@ -17,3 +17,8 @@ recipes.addShaped(<Backpack:backpack:3>,
 # allow quicksand to be turned into somewhat more useful regular sand.
 #
 furnace.addRecipe(<minecraft:sand:0>, <ExtrabiomesXL:quicksand> );
+
+# allow Metallurgy Tar to be turned into real slimeballs
+#
+recipes.addShapeless(<minecraft:slime_ball>, [<Metallurgy:tar>]);
+
