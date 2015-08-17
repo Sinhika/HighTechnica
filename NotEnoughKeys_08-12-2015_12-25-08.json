@@ -1,0 +1,176 @@
+{
+   "key.attack": {
+      "keyCode": -100
+   },
+   "key.use": {
+      "keyCode": -99
+   },
+   "key.forward": {
+      "keyCode": -96
+   },
+   "key.left": {
+      "keyCode": 30
+   },
+   "key.back": {
+      "keyCode": 31
+   },
+   "key.right": {
+      "keyCode": 32
+   },
+   "key.jump": {
+      "keyCode": 57
+   },
+   "key.sneak": {
+      "keyCode": -97
+   },
+   "key.drop": {
+      "keyCode": 16
+   },
+   "key.inventory": {
+      "keyCode": 18
+   },
+   "key.chat": {
+      "keyCode": 20
+   },
+   "key.playerlist": {
+      "keyCode": 15
+   },
+   "key.pickItem": {
+      "keyCode": 0
+   },
+   "key.command": {
+      "keyCode": 53
+   },
+   "key.screenshot": {
+      "keyCode": 60
+   },
+   "key.togglePerspective": {
+      "keyCode": 63
+   },
+   "key.smoothCamera": {
+      "keyCode": 0
+   },
+   "key.sprint": {
+      "keyCode": 29
+   },
+   "key.streamStartStop": {
+      "keyCode": 0
+   },
+   "key.streamPauseUnpause": {
+      "keyCode": 0
+   },
+   "key.streamCommercial": {
+      "keyCode": 0
+   },
+   "key.streamToggleMic": {
+      "keyCode": 0
+   },
+   "key.fullscreen": {
+      "keyCode": 87
+   },
+   "key.hotbar.1": {
+      "keyCode": 2
+   },
+   "key.hotbar.2": {
+      "keyCode": 3
+   },
+   "key.hotbar.3": {
+      "keyCode": 4
+   },
+   "key.hotbar.4": {
+      "keyCode": 5
+   },
+   "key.hotbar.5": {
+      "keyCode": 6
+   },
+   "key.hotbar.6": {
+      "keyCode": 7
+   },
+   "key.hotbar.7": {
+      "keyCode": 8
+   },
+   "key.hotbar.8": {
+      "keyCode": 9
+   },
+   "key.hotbar.9": {
+      "keyCode": 10
+   },
+   "key.archimedes.up": {
+      "keyCode": 45
+   },
+   "key.archimedes.down": {
+      "keyCode": 44
+   },
+   "key.archimedes.brake": {
+      "keyCode": 46
+   },
+   "key.archimedes.align": {
+      "keyCode": 13
+   },
+   "key.archimedes.decompile": {
+      "keyCode": 43
+   },
+   "key.archimedes.shipinv": {
+      "keyCode": 37
+   },
+   "key.personalBackpack": {
+      "keyCode": 48
+   },
+   "MoCreatures Dive": {
+      "keyCode": 33
+   },
+   "MoCreatures GUI": {
+      "keyCode": 0
+   },
+   "waila.keybind.wailaconfig": {
+      "keyCode": 82
+   },
+   "waila.keybind.wailadisplay": {
+      "keyCode": 79
+   },
+   "waila.keybind.liquid": {
+      "keyCode": 80
+   },
+   "waila.keybind.recipe": {
+      "keyCode": 81
+   },
+   "waila.keybind.usage": {
+      "keyCode": 75
+   },
+   "key.tarmor": {
+      "keyCode": 24,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "key.tgoggles": {
+      "keyCode": 34,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "key.tbelt": {
+      "keyCode": 48,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "key.tzoom": {
+      "keyCode": 44,
+      "shift": false,
+      "control": false,
+      "alt": false
+   },
+   "Portable Dual Work Table": {
+      "keyCode": 25
+   },
+   "key.llor.hotkey": {
+      "keyCode": 62
+   },
+   "key.cofh.empower": {
+      "keyCode": 47
+   },
+   "key.cofh.multimode": {
+      "keyCode": 46
+   }
+}

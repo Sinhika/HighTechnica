@@ -13,19 +13,7 @@ import minetweaker.item.IItemStack;
 <ore:plankWood>.add(<MoCreatures:MoCWoodPlank:0>);
 <ore:plankWood>.add(<MoCreatures:MoCWoodPlank:1>);
 
-# change vanilla fence/door recipes to match 1.8 (gates already the same)
-#recipes.remove(<minecraft:fence>);
-#recipes.addShaped(<minecraft:fence> * 3, 
-#	[[null, null, null],
-#	[<minecraft:planks:*>, <ore:stickWood>, <minecraft:planks:*>],
-#	[<minecraft:planks:*>, <ore:stickWood>, <minecraft:planks:*>] ]);
-	
-#recipes.remove(<minecraft:wooden_door>);
-#recipes.addShaped(<minecraft:wooden_door> * 3,
-#	[[<minecraft:planks:*>, <minecraft:planks:*>],
-#	[<minecraft:planks:*>, <minecraft:planks:*>],
-#	[<minecraft:planks:*>, <minecraft:planks:*>]]);
-	
+
 # NATURA - already handled by Bibliowoods
 # add 1.8-style fence/door recipes for Natura woods.
 val myNaturaPlanks = [

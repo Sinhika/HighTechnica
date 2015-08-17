@@ -15,7 +15,7 @@ difficulty:0
 fancyGraphics:true
 ao:1
 clouds:true
-resourcePacks:["Faithful.zip","Lithos Core.zip"]
+resourcePacks:["Unity-Complete-1.2.0.zip","Lithos Core.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -55,7 +55,7 @@ streamMicToggleBehavior:0
 forceUnicodeFont:false
 key_key.attack:-100
 key_key.use:-99
-key_key.forward:-98
+key_key.forward:17
 key_key.left:30
 key_key.back:31
 key_key.right:32
@@ -65,14 +65,14 @@ key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
 key_key.playerlist:15
-key_key.pickItem:0
+key_key.pickItem:-98
 key_key.command:53
 key_key.screenshot:60
 key_key.togglePerspective:63
 key_key.smoothCamera:0
 key_key.sprint:29
-key_key.streamStartStop:64
-key_key.streamPauseUnpause:65
+key_key.streamStartStop:0
+key_key.streamPauseUnpause:0
 key_key.streamCommercial:0
 key_key.streamToggleMic:0
 key_key.fullscreen:87

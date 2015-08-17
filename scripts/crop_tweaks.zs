@@ -44,6 +44,11 @@ vanilla.seeds.removeSeed(<harvestcraft:cottonseedItem>);
 <ore:seedCotton>.add(<Natura:barley.seed:1>);
 <ore:cropCotton>.add(<Natura:barleyFood:3>);
 
+#allow HarvestCraft cotton to be turned into Natura cotton
+recipes.addShapeless(<Natura:barleyFood:3> * 4, 
+    [<harvestcraft:cottonItem>, <harvestcraft:cottonItem>, 
+    <harvestcraft:cottonItem>, <harvestcraft:cottonItem>]);
+#
 # RICE
 # allow HarvestCraft rice since we removed GrowthCraft.
 
@@ -102,9 +107,6 @@ furnace.addRecipe(<harvestcraft:toastItem>, <ashenwheat:scintillaBread>);
 <harvestcraft:grapeItem>.displayName = "Wild Grapes";
 <harvestcraft:grapeseedItem>.displayName = "Wild Grape Seed";
 <harvestcraft:pamgrapeCrop>.displayName = "Wild Grape Vine";
-<ore:cropGrapes>.mirror(<ore:cropGrape>);
-<ore:foodGrapes>.add(<harvestcraft:grapeItem>);
-<ore:seedGrapes>.mirror(<ore:seedGrape>);
 
 # OTHER BERRIES
 # Natura berries already ore-dictified. Mostly.
